@@ -1,0 +1,18 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+
+    <script src="{{ 'scripts/forcehttps.js' | prepend: site.baseurl }}"></script>
+
+    <script src="{{ 'jquery-2.1.4.min.js' | prepend: site.jqueryurl }}"></script>
+    <script src="{{ 'scripts/hlinks.js' | prepend: site.baseurl }}"></script>
+
+    <link rel="stylesheet" href="{{ "css/goto.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "css/fontello-embedded.css" | prepend: site.baseurl }}">
+
+    <link rel="canonical" href="{{ page.url | replace:'/index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>

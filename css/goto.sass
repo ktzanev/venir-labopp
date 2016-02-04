@@ -1,0 +1,78 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8"
+@import '_init'
+
+body
+  font-size: 14px
+  padding: 2em 10vw
+
+img.logo,
+address
+  display: inline-block
+  vertical-align: bottom
+  margin: 3vmin 7vmin
+  font-style: normal
+  font-family: monospace
+  font-size: 1.2em
+
+address
+  background-color: #FAFAFA
+  border-radius: .7em
+  padding: .7em
+  margin-left: auto
+  font-style: normal
+  @media (min-width:700px), print
+    position: absolute
+    right: 0
+    top: 0
+
+@media screen
+  footer
+    height: 50vh
+
+a, a:hover
+  text-decoration: none
+
+h1>a
+  color: #334
+
+.page-content
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><rect fill='red' x='70%' y='0' width='10%' height='100%'/></svg>")
+  background-repeat: repeat-y
+  background-size: 5vw 5vw
+.page-content
+  > h2
+    padding-left: 5vw
+  > p
+    padding-left: 7vw
+  > ul
+    padding-left: 10vw
+
+h2
+  margin: 0px
+  padding-top: .49em
+  padding-bottom: .21em
+  &::before
+    content: '\00a0'
+    display: inline-block
+    margin-left: -5vw
+    margin-bottom: -2vw
+    width: 5vw
+    height: 2vw
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><circle fill='red' cx='75%' cy='21%' r='14%'/><circle fill='white' cx='75%' cy='21%' r='7%'/></svg>")
+    background-repeat: no-repeat
+    background-size: 5vw 5vw
+
+@media print
+  body
+    font-size: 11px
+    padding: 2em
+
+  // do not print links (hack bootstrap)
+  a[href]:after
+    content: ""
+
+  img.logo
+    width: 14em
