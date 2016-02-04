@@ -11,18 +11,18 @@ permalink: /en/
 ## Bruxelles, <i class="icon-flight"></i> aéroport International
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Prandre le train pour ce rendre à la gare Bruxelles Midi (25 min, ~9€).
+Prendre le train pour ce rendre à la gare Bruxelles Midi (25 min, ~9€).
 
 [La gare](http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/) se trouve au niveau -1 de l'aéroport. Le train «Brussels Airport Express» part plusieurs fois par heure vers Bruxelles Midi.
 
-Il existe aussi des corréspondances pour Lille qui ne passe pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai.
+Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai.
 
 ## Bruxelles, <i class="icon-flight"></i> aéroport Charleroi
 {: #bruxelles-ac data-next="lille-g" }
 
-Prandre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
+Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
 
-Il est souhaitable d'acheter votre billet en avance sur [flibco.com](https://www.flibco.com). Compter entre 5€ et 17€ (deux fois moins cher qu'au près du conducteur).
+Il est souhaitable d'acheter votre billet en avance sur [flibco.com](https://www.flibco.com). Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
 
 Il est également possible, mais plus long, de prendre la navette entre l'aéroport et la gare de Charleroi et de là, un train pour Lille via Tournai.
 
@@ -31,7 +31,7 @@ Il est également possible, mais plus long, de prendre la navette entre l'aérop
 
 Prendre un TGV jusqu'à Lille (35 min, ~30€).
 
-Les trains arrivent à Lille Europe.
+Les trains arrivent à la gare Lille Europe.
 
 # <i class="cityicon-london"></i>Londres
 {: #londres-g }
@@ -39,9 +39,9 @@ Les trains arrivent à Lille Europe.
 ## Londres, <i class="icon-train"></i> gare de St-Pancras
 {: #londres-g data-next="lille-g" }
 
-Prendre Eurostar jusqu'à Lille (2h40, 80€~240€).
+Prendre Eurostar jusqu'à la gare Lille Europe (2h40, 80€~240€).
 
-Il faut prévoir d'être à la gare 40min avant le départ.
+Il faut prévoir d'être à la gare 40 min avant le départ.
 
 # <i class="cityicon-paris"></i>Paris
 {: #paris }
@@ -51,14 +51,14 @@ Il faut prévoir d'être à la gare 40min avant le départ.
 
 Prendre le TGV jusqu'à Lille (1h, 50€~70€).
 
-Il est également possible de serendre à la gare Paris-Nord par le RER B, puis de rejoindre Lille. C'est plus long, mais il y a plus de trains.
+Il est également possible de se rendre à la gare Paris-Nord par le RER B, puis de rejoindre Lille. C'est plus long, mais il y a plus de trains.
 
 ## Paris, <i class="icon-flight"></i> aéroport d'Orly
 {: #paris-ao data-next="paris-g" }
 
 Prendre le métro «Orlyval», descendre à Antony. Prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord. (1h, 12€)
 
-Solution alternative: prendre un bus «Orlybus» pour Paris, descendre dans Paris à «Denfert-Rochereau» et prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord.
+Solution alternative : prendre un bus «Orlybus» pour Paris, descendre dans Paris à «Denfert-Rochereau» et prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord.
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
@@ -96,6 +96,6 @@ Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés jus
 
 - salle de Conférence : bâtiment M2, 1er étage
 - salle de Kampé de Fériet : bâtiment M2, 1er étage
-- salle Duhem : bâtiment M3, 2éme étage
-- salle de visioconférence : bâtiment M3, 2éme étage
-- salle des séminaires : bâtiment M3, 3ème étage
+- salle Duhem : bâtiment M3, 2e étage
+- salle de visioconférence : bâtiment M3, 2e étage
+- salle des séminaires : bâtiment M3, 3e étage
