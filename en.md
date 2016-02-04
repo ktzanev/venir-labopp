@@ -5,7 +5,7 @@ layout: goto
 permalink: /en/
 ---
 
-# Bruxelles
+# <i class="cityicon-bruxelles"></i>Bruxelles
 {: #bruxelles }
 
 ## Bruxelles, <i class="icon-flight"></i> aéroport International
@@ -33,7 +33,7 @@ Prendre un TGV jusqu'à Lille (35 min, ~30€).
 
 Les trains arrivent à Lille Europe.
 
-# Londres
+# <i class="cityicon-london"></i>Londres
 {: #londres-g }
 
 ## Londres, <i class="icon-train"></i> gare de St-Pancras
@@ -43,7 +43,7 @@ Prendre Eurostar jusqu'à Lille (2h40, 80€~240€).
 
 Il faut prévoir d'être à la gare 40min avant le départ.
 
-# Paris
+# <i class="cityicon-paris"></i>Paris
 {: #paris }
 
 ## Paris, <i class="icon-flight"></i> aéroport Charles de Gaules
@@ -67,7 +67,7 @@ Prendre le TGV jusqu'à Lille. (1h, 30€~70€).
 
 Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la gare Lille Flandres, mais certains arrivent à la gare Lille Europe.
 
-# Lille
+# <i class="cityicon-lille"></i>Lille
 {: #lille }
 
 ## Lille, <i class="icon-flight"></i> aéroport Lesquin
