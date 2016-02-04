@@ -36,6 +36,11 @@ $(function () {
         // if the element is not <h1> or <h2>
         e.toggle(show);
       };
+
+      // jump to top
+      setTimeout(function() {
+          window.scrollTo(0, 0);
+        }, 1);
     });
   };
 
