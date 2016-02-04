@@ -35,14 +35,17 @@ address
 a, a:hover
   text-decoration: none
 
-h1>a
-  color: #334
+h1
+  margin-bottom: 0em
+
+h2
+  margin: 0px
+  padding-top: .49em
+  padding-bottom: .21em
 
 .page-content
-  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><rect fill='red' x='70%' y='0' width='10%' height='100%'/></svg>")
-  background-repeat: repeat-y
-  background-size: 5vw 5vw
-.page-content
+  > h1
+    padding-left: 4vw
   > h2
     padding-left: 5vw
   > p
@@ -50,11 +53,11 @@ h1>a
   > ul
     padding-left: 10vw
 
-h2
-  margin: 0px
-  padding-top: .49em
-  padding-bottom: .21em
-  &::before
+.page-content.road
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><rect fill='red' x='70%' y='0' width='10%' height='100%'/></svg>")
+  background-repeat: repeat-y
+  background-size: 5vw 5vw
+  h2::before
     content: '\00a0'
     display: inline-block
     margin-left: -5vw
