@@ -54,9 +54,9 @@ Solution alternative: prendre un bus «Orlybus» pour Paris, descendre dans Pari
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g"}
 
-Prendre le TGV jusqu'à Lille. (1h, 50€~70€).
+Prendre le TGV jusqu'à Lille. (1h, 30€~70€).
 
-Presque tous les trains sont des TGV : il arrivent à Lille en une heure. Un TGV part toutes les heures en moyenne. Les prix varient entre 30 et 55 Euros environ. La majorité des trains arrivent à la <i class="icon-train"></i> gare Lille Flandres, mais certains arrivent à Lille Europe.
+Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la gare Lille Flandres, mais certains arrivent à la gare Lille Europe.
 
 ## Lille, <i class="icon-flight"></i> aéroport Lesquin
 {: #lille-a data-next="lille-g"}
@@ -75,7 +75,7 @@ Descendre (12 minutes après) à la station «Cité Scientifique Pr Gabillard» 
 ## Université Lille 1
 {: #lille-u data-next="labo"}
 
-Longer le métro (qui est à cette endroit aérien) en direction (sud) de la station suivante («4 Cantons») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
+Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante («4 Cantons») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
 
 ## Laboratoire Paul Painlevé et UFR de Mathématiques
 {: #labo}
