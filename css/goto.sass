@@ -27,7 +27,6 @@ address
   background-color: #FAFAFA
   border-radius: .7em
   padding: .7em
-  margin-left: auto
   font-style: normal
   @media (min-width:700px), print
     position: absolute
@@ -73,6 +72,18 @@ h2
     background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><circle fill='red' cx='75%' cy='21%' r='14%'/><circle fill='white' cx='75%' cy='21%' r='7%'/></svg>")
     background-repeat: no-repeat
     background-size: 5vw 5vw
+
+.map
+  margin: 1vw
+  width: 49vw
+  @media print, (min-width: 768px)
+    margin: -35px 1vw 0px 1vw
+    float: right
+  @media (min-width: 768px)
+    width: 21vw
+  @media print
+    width: 35vw
+
 
 @media print
   body

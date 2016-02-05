@@ -11,7 +11,7 @@ permalink: /fr/
 ## Bruxelles, <i class="icon-flight"></i> aéroport International
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Prendre le train pour ce rendre à la gare Bruxelles Midi (25 min, ~9€).
+Prendre le train pour se rendre à la gare Bruxelles Midi (25 min, ~9€).
 
 [La gare](http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/) se trouve au niveau -1 de l'aéroport. Le train «Brussels Airport Express» part plusieurs fois par heure vers Bruxelles Midi.
 
@@ -39,7 +39,7 @@ Les trains arrivent à la gare Lille Europe.
 ## Londres, <i class="icon-train"></i> gare de St-Pancras
 {: #londres-g data-next="lille-g" }
 
-Prendre Eurostar jusqu'à la gare Lille Europe (2h40, 80€~240€).
+Prendre l'Eurostar jusqu'à la gare Lille Europe (2h40, 80€~240€).
 
 Il faut prévoir d'être à la gare 40 min avant le départ.
 
@@ -56,9 +56,9 @@ Il est également possible de se rendre à la gare Paris-Nord par le RER B, puis
 ## Paris, <i class="icon-flight"></i> aéroport d'Orly
 {: #paris-ao data-next="paris-g" }
 
-Prendre le métro «Orlyval», descendre à Antony. Prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord. (1h, 12€)
+Prendre le métro «Orlyval», descendre à Antony. Prendre alors le métro RER-Ligne B jusqu'à la gare du Nord. (1h, 12€)
 
-Solution alternative : prendre un bus «Orlybus» pour Paris, descendre dans Paris à «Denfert-Rochereau» et prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord.
+Solution alternative : prendre un bus «Orlybus» pour Paris, descendre à Paris à la station «Denfert-Rochereau» et prendre alors le métro RER-Ligne B jusqu'à la gare du Nord.
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
@@ -73,19 +73,24 @@ Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la
 ## Lille, <i class="icon-flight"></i> aéroport Lesquin
 {: #lille-a data-next="lille-g" }
 
-Prendre la navettes qui arrivent directement aux gares (20min, 8€).
+Prendre la navette qui arrive directement aux gares (20min, 8€).
 
 Pour plus d'informations voir le [site de l'aéroport](http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/).
 
 ## Lille, <i class="icon-train"></i> gares Flandres et Europe
 {: #lille-g data-next="lille-u" }
 
-Marcher à pieds (5 minutes) jusqu'à la station de métro «Gare Lille Flandres» de la ligne 1.
-Puis, prendre la ligne 1 (jaune) en direction «4 Cantons Stade Pierre Mauroy».
-Descendre (12 minutes après) à la station «Cité Scientifique Pr Gabillard» (c'est l'avant dernière station). Cette station se trouve au centre du campus.
+Marcher à pied (5 minutes) jusqu'à la station de métro «Gare Lille Flandres» de la ligne 1.
+Puis, prendre la ligne 1 (jaune) direction «4 Cantons Stade Pierre Mauroy».
+Descendre (après 12 minutes) à la station «Cité Scientifique Pr Gabillard» (c'est l'avant dernière station). Cette station se trouve au centre du campus.
 
 ## Université Lille 1
 {: #lille-u data-next="lille-l" }
+
+[![metro-m2]{:.map}][metro-m2]
+
+[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+"Plan pour venir du métro au bâtiment M2"
 
 Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante («4 Cantons») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
 
@@ -94,8 +99,8 @@ Longer le métro (qui est aérien à cet endroit) en direction (sud) de la stati
 
 Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés juste derrière le bâtiment M1.
 
-- salle de Conférence : bâtiment M2, 1<sup>er</sup> étage
-- salle de Kampé de Fériet : bâtiment M2, 1<sup>er</sup> étage
-- salle Duhem : bâtiment M3, 2<sup>e</sup> étage
-- salle de visioconférence : bâtiment M3, 2<sup>e</sup> étage
-- salle des séminaires : bâtiment M3, 3<sup>e</sup> étage
+- **salle de Conférence :** bâtiment M2, 1<sup>er</sup> étage
+- **salle de Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
+- **salle Duhem :** bâtiment M3, 2<sup>e</sup> étage
+- **salle de visioconférence :** bâtiment M3, 2<sup>e</sup> étage
+- **salle des séminaires :** bâtiment M3, 3<sup>e</sup> étage
