@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'cityicons';
-  src: url('../font/cityicons.eot?59777483');
-  src: url('../font/cityicons.eot?59777483#iefix') format('embedded-opentype'),
-       url('../font/cityicons.svg?59777483#cityicons') format('svg');
+  src: url('{{ site.baseurl }}assets/font/cityicons.eot?59777483');
+  src: url('{{ site.baseurl }}assets/font/cityicons.eot?59777483#iefix') format('embedded-opentype'),
+       url('{{ site.baseurl }}assets/font/cityicons.svg?59777483#cityicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
