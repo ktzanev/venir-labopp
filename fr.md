@@ -46,7 +46,7 @@ Il faut prévoir d'être à la gare 40 min avant le départ.
 # <i class="cityicon-paris"></i>Paris
 {: #paris }
 
-## Paris, <i class="icon-flight"></i> aéroport Charles de Gaules
+## Paris, <i class="icon-flight"></i> aéroport Charles de Gaulle
 {: #paris-ac data-next="paris-g" }
 
 Prendre le TGV jusqu'à Lille (1h, 50€~70€).
@@ -99,8 +99,8 @@ Longer le métro (qui est aérien à cet endroit) en direction (sud) de la stati
 
 Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés juste derrière le bâtiment M1.
 
-- **salle de Conférence :** bâtiment M2, 1<sup>er</sup> étage
-- **salle de Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
+- **salle de réunion :** bâtiment M2, 1<sup>er</sup> étage
+- **salle Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
 - **salle Duhem :** bâtiment M3, 2<sup>e</sup> étage
 - **salle de visioconférence :** bâtiment M3, 2<sup>e</sup> étage
 - **salle des séminaires :** bâtiment M3, 3<sup>e</sup> étage
