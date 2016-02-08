@@ -1,101 +1,125 @@
 ---
-title: How to come ...
+title: How to come from ...
 description: Indicates how to get to the math lab "Paul Painlevé" of University of Lille from various starting points.
 layout: goto
 permalink: /en/
 ---
 
-# <i class="cityicon-bruxelles"></i>Bruxelles
+# <i class="cityicon-bruxelles"></i>Brussels
 {: #bruxelles }
 
-## Bruxelles, <i class="icon-flight"></i> aéroport International
+## Bruxelles, <i class="icon-flight"></i> International airport
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Prendre le train pour ce rendre à la gare Bruxelles Midi (25 min, ~9€).
+Take the train to the Brussels Midi train station (25 min, ~9€).
 
-[La gare](http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/) se trouve au niveau -1 de l'aéroport. Le train «Brussels Airport Express» part plusieurs fois par heure vers Bruxelles Midi.
+[The train station][brussels airport train station] is on level -1 of the airport. The train "Brussels Airport Express" has several departures per hour to Brussels Midi.
 
-Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai.
+_There are also connections to Lille which do not pass through Brussels Midi, but Kortrijk or Tournai._
 
-## Bruxelles, <i class="icon-flight"></i> aéroport Charleroi
+## Brussels, <i class="icon-flight"></i> Charleroi airport
 {: #bruxelles-ac data-next="lille-g" }
 
-Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
+Take the shuttle bus between the airport and Lille train stations (1h30, 5€~35€).
 
-Il est souhaitable d'acheter votre billet en avance sur [flibco.com](https://www.flibco.com). Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
+It is better to buy your ticket in advance on [flibco.com]. Count between 5€ and 17€ (two times cheaper than purchased from the driver).
 
-Il est également possible, mais plus long, de prendre la navette entre l'aéroport et la gare de Charleroi et de là, un train pour Lille via Tournai.
+_It is also possible, but longer, to take the bus [TEC] between the airport and Charleroi-South railway station (20min, ~5€) and from there a train to Lille via Tournai (1h40, ~20€). Some Tournai--Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes by walking through the village._
 
-## Bruxelles, <i class="icon-train"></i> gare Midi
+## Brussels, <i class="icon-train"></i> Midi railway station
 {: #bruxelles-g data-next="lille-g" }
 
-Prendre un TGV jusqu'à Lille (35 min, ~30€).
+Take a TGV, Thalys or [Eurostar] to Lille (35min, ~30€).
 
-Les trains arrivent à la gare Lille Europe.
+Trains arrive at Lille Europe station.
 
-# <i class="cityicon-london"></i>Londres
+_It is also possible, but longer, take a train to Lille via Tournai (1h40, ~23€). Some Tournai-Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes through the village on foot._
+
+# <i class="cityicon-london"></i>London
 {: #londres-g }
 
-## Londres, <i class="icon-train"></i> gare de St-Pancras
+## London, <i class="icon-train"></i> St Pancras station
 {: #londres-g data-next="lille-g" }
 
-Prendre Eurostar jusqu'à la gare Lille Europe (2h40, 80€~240€).
+Take the [Eurostar] to Lille Europe station (1h30, 80€~240€).
 
-Il faut prévoir d'être à la gare 40 min avant le départ.
+It is recommended on the Eurostar website to be at the station 40 minutes before departure.
 
 # <i class="cityicon-paris"></i>Paris
 {: #paris }
 
-## Paris, <i class="icon-flight"></i> aéroport Charles de Gaules
+## Paris, <i class="icon-flight"></i> Charles de Gaulle airport
 {: #paris-ac data-next="paris-g" }
 
-Prendre le TGV jusqu'à Lille (1h, 50€~70€).
+Take the TGV to Lille (1h, 50€~70€).
 
-Il est également possible de se rendre à la gare Paris-Nord par le RER B, puis de rejoindre Lille. C'est plus long, mais il y a plus de trains.
+_It is also possible to go to Paris-Nord railway station by metro [RER-B], then to join Lille by TGV. It is longer, but there are more trains._
 
-## Paris, <i class="icon-flight"></i> aéroport d'Orly
+## Paris, <i class="icon-flight"></i> d'Orly airport
 {: #paris-ao data-next="paris-g" }
 
-Prendre le métro «Orlyval», descendre à Antony. Prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord. (1h, 12€)
+Take the metro [Orlyval], get off at "Antony" station. Take the metro [RER-B] to "gare du Nord" station. (1h, 12€)
 
-Solution alternative : prendre un bus «Orlybus» pour Paris, descendre dans Paris à «Denfert-Rochereau» et prendre alors le métro RER-Ligne B jusqu'à la Gare du Nord.
+_Alternative solution: take a bus [Orlybus] to Paris, get off at Paris - "Denfert-Rochereau" station and then take the subway [RER-B] to "gare du Nord" station._
+
+
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
 
-Prendre le TGV jusqu'à Lille. (1h, 30€~70€).
+Take the TGV to Lille (1h, 30€~70€).
 
-Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la gare Lille Flandres, mais certains arrivent à la gare Lille Europe.
+A train leaves every hour on average. The majority of trains arrive at Lille Flandres station, but some arrive at Lille Europe station.
 
 # <i class="cityicon-lille"></i>Lille
 {: #lille }
 
-## Lille, <i class="icon-flight"></i> aéroport Lesquin
+## Lille, <i class="icon-flight"></i> Lesquin airport
 {: #lille-a data-next="lille-g" }
 
-Prendre la navettes qui arrivent directement aux gares (20min, 8€).
+Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20min, 8€).
 
-Pour plus d'informations voir le [site de l'aéroport](http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/).
-
-## Lille, <i class="icon-train"></i> gares Flandres et Europe
+## Lille, <i class="icon-train"></i> Flandres and Europe railway stations
 {: #lille-g data-next="lille-u" }
 
-Marcher à pieds (5 minutes) jusqu'à la station de métro «Gare Lille Flandres» de la ligne 1.
-Puis, prendre la ligne 1 (jaune) en direction «4 Cantons Stade Pierre Mauroy».
-Descendre (12 minutes après) à la station «Cité Scientifique Pr Gabillard» (c'est l'avant dernière station). Cette station se trouve au centre du campus.
+Walk (5 minutes) to the metro station "Gare Lille Flandres" of line 1.
+Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy".
+Get off (after 12 minutes) to the "Cité Scientifique Pr Gabillard" station (it's the penultimate station). This station is in the center of the campus.
 
-## Université Lille 1
+## Lille 1 University
 {: #lille-u data-next="lille-l" }
 
-Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante («4 Cantons») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
+[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
 
-## Laboratoire Paul Painlevé et UFR de Mathématiques
+Walk along the subway (skytrain here) in direction (south) to the next station ("4 Cantons") until you reach on your left the large cylindrical building under construction (the University Library). At this point you should see on your right the M1 building, recognizable by the large radio transmission antenna on its roof.
+
+## Paul Painlevé lab and the Math department
 {: #lille-l }
 
-Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés juste derrière le bâtiment M1.
+Paul Painlevé lab and the Math department occupy two buildings: M2 and M3 which are located just behind the building M1.
 
-- salle de Conférence : bâtiment M2, 1er étage
-- salle de Kampé de Fériet : bâtiment M2, 1er étage
-- salle Duhem : bâtiment M3, 2e étage
-- salle de visioconférence : bâtiment M3, 2e étage
-- salle des séminaires : bâtiment M3, 3e étage
+- **salle de réunion :** building M2, 1<sup>st</sup> floor
+- **salle Kampé de Fériet :** building M2, 1<sup>st</sup> floor
+- **salle Duhem :** building M3, 2<sup>nd</sup> floor
+- **salle de visioconférence :** building M3, 2<sup>nd</sup> floor
+- **salle des séminaires :** building M3, 3<sup>nd</sup> floor
+
+
+{::comment}
+====================== Links ==========================
+{:/comment}
+
+[brussels airport train station]:http://www.brusselsairport.be/en/passngr/to_from_brussels_airport/train/
+
+[flibco.com]:https://www.flibco.com/en
+[TEC]:https://www.infotec.be/fr-be/medeplacer/horaires/ligne.aspx?ligne=CA
+
+[Eurostar]:http://www.eurostar.com/uk-en
+
+[Orlyval]:https://www.orlyval.com/en
+[RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
+[Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
+
+[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
+
+[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png

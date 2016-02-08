@@ -24,7 +24,7 @@ Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
 
 Il est souhaitable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
 
-_Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
+_Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai--Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
 
 ## Bruxelles, <i class="icon-train"></i> gare Midi
 {: #bruxelles-g data-next="lille-g" }
@@ -53,7 +53,7 @@ Il est conseillé sur le site de l'Eurostar d'être à la gare 40 min avant le d
 
 Prendre le TGV jusqu'à Lille (1h, 50€~70€).
 
-_Il est également possible de se rendre à la gare Paris-Nord par le [RER-B], puis de rejoindre Lille. C'est plus long, mais il y a plus de trains._
+_Il est également possible de se rendre à la gare Paris-Nord par le [RER-B], puis de rejoindre Lille en TGV. C'est plus long, mais il y a plus de trains._
 
 ## Paris, <i class="icon-flight"></i> aéroport d'Orly
 {: #paris-ao data-next="paris-g" }
