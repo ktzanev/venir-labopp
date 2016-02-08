@@ -24,16 +24,16 @@ Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
 
 Il est souhaitable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
 
-_Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pieds._
+_Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
 
 ## Bruxelles, <i class="icon-train"></i> gare Midi
 {: #bruxelles-g data-next="lille-g" }
 
-Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35 min, ~30€).
+Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35min, ~30€).
 
 Les trains arrivent à la gare Lille Europe.
 
-_Il est également possible, mais plus long, de prendre un train pour Lille via Tournai (1h40, ~23€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pieds._
+_Il est également possible, mais plus long, de prendre un train pour Lille via Tournai (1h40, ~23€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
 
 # <i class="cityicon-london"></i>Londres
 {: #londres-g }
@@ -43,7 +43,7 @@ _Il est également possible, mais plus long, de prendre un train pour Lille via 
 
 Prendre l'[Eurostar] jusqu'à la gare Lille Europe (1h30, 80€~240€).
 
-Les voyageurs occasionel doivent prévoir d'être à la gare 40 min avant le départ.
+Il est conseillé sur le site de l'Eurostar d'être à la gare 40 min avant le départ.
 
 # <i class="cityicon-paris"></i>Paris
 {: #paris }
@@ -65,7 +65,7 @@ _Solution alternative : prendre un bus [Orlybus] pour Paris, descendre à Paris 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
 
-Prendre le TGV jusqu'à Lille. (1h, 30€~70€).
+Prendre le TGV jusqu'à Lille (1h, 30€~70€).
 
 Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la gare Lille Flandres, mais certains arrivent à la gare Lille Europe.
 
