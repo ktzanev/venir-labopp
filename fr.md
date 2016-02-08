@@ -15,7 +15,7 @@ Prendre le train pour se rendre à la gare Bruxelles Midi (25 min, ~9€).
 
 [La gare][brussels airport train station] se trouve au niveau -1 de l'aéroport. Le train « Brussels Airport Express » part plusieurs fois par heure vers Bruxelles Midi.
 
-Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai.
+_Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai._
 
 ## Bruxelles, <i class="icon-flight"></i> aéroport Charleroi
 {: #bruxelles-ac data-next="lille-g" }
@@ -24,7 +24,7 @@ Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
 
 Il est souhaitable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
 
-Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€).
+_Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pieds._
 
 ## Bruxelles, <i class="icon-train"></i> gare Midi
 {: #bruxelles-g data-next="lille-g" }
@@ -32,6 +32,8 @@ Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aér
 Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35 min, ~30€).
 
 Les trains arrivent à la gare Lille Europe.
+
+_Il est également possible, mais plus long, de prendre un train pour Lille via Tournai (1h40, ~23€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pieds._
 
 # <i class="cityicon-london"></i>Londres
 {: #londres-g }
@@ -51,14 +53,14 @@ Les voyageurs occasionel doivent prévoir d'être à la gare 40 min avant le dé
 
 Prendre le TGV jusqu'à Lille (1h, 50€~70€).
 
-Il est également possible de se rendre à la gare Paris-Nord par le [RER-B], puis de rejoindre Lille. C'est plus long, mais il y a plus de trains.
+_Il est également possible de se rendre à la gare Paris-Nord par le [RER-B], puis de rejoindre Lille. C'est plus long, mais il y a plus de trains._
 
 ## Paris, <i class="icon-flight"></i> aéroport d'Orly
 {: #paris-ao data-next="paris-g" }
 
 Prendre le métro [Orlyval], descendre à Antony. Prendre alors le métro [RER-B] jusqu'à la gare du Nord. (1h, 12€)
 
-Solution alternative : prendre un bus [Orlybus] pour Paris, descendre à Paris à la station « Denfert-Rochereau » et prendre alors le métro [RER-B] jusqu'à la gare du Nord.
+_Solution alternative : prendre un bus [Orlybus] pour Paris, descendre à Paris à la station « Denfert-Rochereau » et prendre alors le métro [RER-B] jusqu'à la gare du Nord._
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
