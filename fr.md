@@ -13,7 +13,7 @@ permalink: /fr/
 
 Prendre le train pour se rendre à la gare Bruxelles Midi (25 min, ~9€).
 
-[La gare](http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/) se trouve au niveau -1 de l'aéroport. Le train «Brussels Airport Express» part plusieurs fois par heure vers Bruxelles Midi.
+[La gare][brussels airport train station] se trouve au niveau -1 de l'aéroport. Le train « Brussels Airport Express » part plusieurs fois par heure vers Bruxelles Midi.
 
 Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai.
 
@@ -22,14 +22,14 @@ Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles 
 
 Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
 
-Il est souhaitable d'acheter votre billet en avance sur [flibco.com](https://www.flibco.com). Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
+Il est souhaitable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
 
-Il est également possible, mais plus long, de prendre la navette entre l'aéroport et la gare de Charleroi et de là, un train pour Lille via Tournai.
+Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€).
 
 ## Bruxelles, <i class="icon-train"></i> gare Midi
 {: #bruxelles-g data-next="lille-g" }
 
-Prendre un TGV jusqu'à Lille (35 min, ~30€).
+Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35 min, ~30€).
 
 Les trains arrivent à la gare Lille Europe.
 
@@ -39,9 +39,9 @@ Les trains arrivent à la gare Lille Europe.
 ## Londres, <i class="icon-train"></i> gare de St-Pancras
 {: #londres-g data-next="lille-g" }
 
-Prendre l'Eurostar jusqu'à la gare Lille Europe (2h40, 80€~240€).
+Prendre l'[Eurostar] jusqu'à la gare Lille Europe (1h30, 80€~240€).
 
-Il faut prévoir d'être à la gare 40 min avant le départ.
+Les voyageurs occasionel doivent prévoir d'être à la gare 40 min avant le départ.
 
 # <i class="cityicon-paris"></i>Paris
 {: #paris }
@@ -51,14 +51,14 @@ Il faut prévoir d'être à la gare 40 min avant le départ.
 
 Prendre le TGV jusqu'à Lille (1h, 50€~70€).
 
-Il est également possible de se rendre à la gare Paris-Nord par le RER B, puis de rejoindre Lille. C'est plus long, mais il y a plus de trains.
+Il est également possible de se rendre à la gare Paris-Nord par le [RER-B], puis de rejoindre Lille. C'est plus long, mais il y a plus de trains.
 
 ## Paris, <i class="icon-flight"></i> aéroport d'Orly
 {: #paris-ao data-next="paris-g" }
 
-Prendre le métro «Orlyval», descendre à Antony. Prendre alors le métro RER-Ligne B jusqu'à la gare du Nord. (1h, 12€)
+Prendre le métro [Orlyval], descendre à Antony. Prendre alors le métro [RER-B] jusqu'à la gare du Nord. (1h, 12€)
 
-Solution alternative : prendre un bus «Orlybus» pour Paris, descendre à Paris à la station «Denfert-Rochereau» et prendre alors le métro RER-Ligne B jusqu'à la gare du Nord.
+Solution alternative : prendre un bus [Orlybus] pour Paris, descendre à Paris à la station « Denfert-Rochereau » et prendre alors le métro [RER-B] jusqu'à la gare du Nord.
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
@@ -73,26 +73,21 @@ Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la
 ## Lille, <i class="icon-flight"></i> aéroport Lesquin
 {: #lille-a data-next="lille-g" }
 
-Prendre la navette qui arrive directement aux gares (20min, 8€).
-
-Pour plus d'informations voir le [site de l'aéroport](http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/).
+Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20min, 8€).
 
 ## Lille, <i class="icon-train"></i> gares Flandres et Europe
 {: #lille-g data-next="lille-u" }
 
-Marcher à pied (5 minutes) jusqu'à la station de métro «Gare Lille Flandres» de la ligne 1.
-Puis, prendre la ligne 1 (jaune) direction «4 Cantons Stade Pierre Mauroy».
-Descendre (après 12 minutes) à la station «Cité Scientifique Pr Gabillard» (c'est l'avant dernière station). Cette station se trouve au centre du campus.
+Marcher à pied (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
+Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy ».
+Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant dernière station). Cette station se trouve au centre du campus.
 
 ## Université Lille 1
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map}][metro-m2]
+[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
 
-[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
-"Plan pour venir du métro au bâtiment M2"
-
-Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante («4 Cantons») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
+Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
 
 ## Laboratoire Paul Painlevé et UFR de Mathématiques
 {: #lille-l }
@@ -104,3 +99,23 @@ Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés jus
 - **salle Duhem :** bâtiment M3, 2<sup>e</sup> étage
 - **salle de visioconférence :** bâtiment M3, 2<sup>e</sup> étage
 - **salle des séminaires :** bâtiment M3, 3<sup>e</sup> étage
+
+
+{::comment}
+====================== Le liens ==========================
+{:/comment}
+
+[brussels airport train station]:http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/
+
+[flibco.com]:https://www.flibco.com/fr
+[TEC]:https://www.infotec.be/fr-be/medeplacer/horaires/ligne.aspx?ligne=CA
+
+[Eurostar]:http://www.eurostar.com/fr-fr
+
+[Orlyval]:https://www.orlyval.com/fr
+[RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
+[Orlybus]:http://www.ratp.fr/fr/ratp/r_61848/orlybus/
+
+[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+
+[metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
