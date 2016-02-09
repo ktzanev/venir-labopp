@@ -14,7 +14,11 @@ $(function () {
     if (road) {
       showRoad(hid);
     } else if (hid) {
-      showCity(hid);
+      if (hid === 'all') {
+        showAll();
+      } else {
+        showCity(hid);
+      }
     } else {
       showReset();
     };
@@ -70,6 +74,11 @@ $(function () {
   var showReset = function() {
     $('.page-content > h1').show();
     $('.page-content > :not(h1)').hide();
+  };
+
+  // for check/translation purpose show all
+  var showAll = function() {
+    $('.page-content > *').show();
   };
 
   // make all <h1> and <h2> clickable
