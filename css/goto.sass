@@ -59,6 +59,16 @@ h2
     padding-left: 10vw
   em
     color: gray
+  @media screen
+    img
+      padding: 7px
+      border: 1px solid #ccc
+      border-color: #ccc #999 #999 #ccc
+      background-color: #fff
+      border-radius: 5px
+      box-shadow: 0 0 7px #ccc
+    a:hover img
+      box-shadow: 0 0 14px #2a6496
 
 .page-content.road
   background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><rect fill='red' x='70%' y='0' width='10%' height='100%'/></svg>")
@@ -75,11 +85,18 @@ h2
     background-repeat: no-repeat
     background-size: 5vw 5vw
 
-.map
-  margin: 1vw
+.gares
   width: 49vw
+  margin: 7px
+  @media print
+    margin: 0px 1vw 0px 1vw
+    float: right
+    width: 35vw
+.map
+  width: 49vw
+  margin: 1vw
   @media print, (min-width: 768px)
-    margin: -35px 1vw 0px 1vw
+    margin: -28px 1vw 0px 1vw
     float: right
   @media (min-width: 768px)
     width: 21vw

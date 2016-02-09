@@ -81,7 +81,10 @@ Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20
 {: #lille-g data-next="lille-u" }
 
 Marcher à pied (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
-Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy ».
+
+[![metro-gares]{: .gares title="Plan métro gares"}][metro-gares]
+
+Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy » (1,60€/trajet + 0,20€ carte rechargeable).
 Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant dernière station). Cette station se trouve au centre du campus.
 
 ## Lille 1 Universität
@@ -121,4 +124,5 @@ Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés jus
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
 

@@ -83,13 +83,16 @@ Take [the shuttle][lille airport shuttle] that arrives directly to the railaway 
 {: #lille-g data-next="lille-u" }
 
 Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
-Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy".
+
+[![metro-gares]{: .gares title="Plan métro gares"}][metro-gares]
+
+Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy" (1,60€/ride + 0,20€ rechargeable card).
 Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it's the second to last station). This station is in the center of the campus.
 
 ## Lille 1 University
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
+[![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
 
 Walk along the subway (skytrain here) towards (south) to the next station ("4 Cantons") until you reach on your left the large cylindrical building under construction (the University Library). At this point you should see on your right the M1 building, recognizable by the large radio transmission antenna on its roof.
 
@@ -123,3 +126,4 @@ Paul Painlevé lab and the Math department occupy two buildings: M2 and M3 which
 [lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
