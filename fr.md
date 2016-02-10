@@ -82,7 +82,7 @@ Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20
 
 Marcher à pied (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
 
-[![metro-gares]{: .gares title="Plan métro gares"}][metro-gares]
+[![metro-gares]{:.gares title="Plan métro – gares"}][metro-gares]
 
 Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy » (1,60€/trajet + 0,20€ carte rechargeable).
 Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant dernière station). Cette station se trouve au centre du campus.

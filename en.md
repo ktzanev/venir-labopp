@@ -60,7 +60,7 @@ _It is also possible to go to Paris-Nord railway station by metro [RER-B], then 
 
 Take the metro [Orlyval], get off at "Antony" station. Take the metro [RER-B] to "gare du Nord" station. (1h, 12€)
 
-_Alternative solution: take a bus [Orlybus] to Paris, get off at Paris - "Denfert-Rochereau" station and then take the subway [RER-B] to "gare du Nord" station._
+_Alternative solution: take a bus [Orlybus] to Paris, get off at Paris - "Denfert-Rochereau" station and then take the metro [RER-B] to "gare du Nord" station._
 
 
 
@@ -84,7 +84,7 @@ Take [the shuttle][lille airport shuttle] that arrives directly to the railaway 
 
 Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
 
-[![metro-gares]{: .gares title="Plan métro gares"}][metro-gares]
+[![metro-gares]{:.gares title="Map metro – railway stations"}][metro-gares]
 
 Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy" (1,60€/ride + 0,20€ rechargeable card).
 Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it's the second to last station). This station is in the center of the campus.
@@ -94,7 +94,7 @@ Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it'
 
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
 
-Walk along the subway (skytrain here) towards (south) to the next station ("4 Cantons") until you reach on your left the large cylindrical building under construction (the University Library). At this point you should see on your right the M1 building, recognizable by the large radio transmission antenna on its roof.
+Walk along the metro (skytrain here) towards (south) to the next station ("4 Cantons") until you reach on your left the large cylindrical building under construction (the University Library). At this point you should see on your right the M1 building, recognizable by the large radio transmission antenna on its roof.
 
 ## Paul Painlevé lab and the Math department
 {: #lille-l }

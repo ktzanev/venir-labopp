@@ -7,5 +7,5 @@ layout: default
 - [![français]({{ 'assets/images/svgflags/fr.svg' | prepend: site.baseurl }}) Comment&nbsp;venir&nbsp;?](fr/)
 - [![english]({{ 'assets/images/svgflags/en.svg' | prepend: site.baseurl }}) How&nbsp;to&nbsp;come?](en/)
 - [![nederlands]({{ 'assets/images/svgflags/nl.svg' | prepend: site.baseurl }}) Hoe&nbsp;om&nbsp;te komen?](nl/)
-- [![deutsche]({{ 'assets/images/svgflags/de.svg' | prepend: site.baseurl }}) Wie&nbsp;zu&nbsp;kommen?](de/)
+- [![deutsche]({{ 'assets/images/svgflags/de.svg' | prepend: site.baseurl }}) Wie&nbsp;komme&nbsp;ich?](de/)
 - [![德语]({{ 'assets/images/svgflags/cn.svg' | prepend: site.baseurl }}) 怎么来的？](cn/)

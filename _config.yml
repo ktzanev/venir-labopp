@@ -24,3 +24,6 @@ kramdown:
 
 gems:
   - jemoji
+
+exclude:
+  - Work

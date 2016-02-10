@@ -1,6 +1,6 @@
 ---
-title: Wie zu kommen ...
-description: Gibt an, wie die Mathematik Labor Paul Painlevé (Universität Lille) aus verschiedenen Ausgangspunkte .
+title: Wie komme ich von...
+description: Erklärt, wie man aus verschiedenen Ausgangspünkten zum Mathematiklabor Paul Painlevé an der Universität von Lille kommt.
 layout: goto
 permalink: /de/
 ---
@@ -11,39 +11,39 @@ permalink: /de/
 ## Brüssel, <i class="icon-flight"></i> Internationaler Flughafen
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Nehmen Sie den Zug zum Bahnhof Brüssel Midi (25 min, ~9€).
+Nehmen Sie den Zug zum Bahnhof Brüssel Midi (25 Min., ~9€).
 
-[Der Bahnhof][brussels airport train station] ist auf Ebene -1 des Flughafens. Der Zug "Brussels Airport Express" hat mehrere Abfahrten pro Stunde nach Brüssel Midi.
+[Der Bahnhof][brussels airport train station] ist auf Ebene -1 des Flughafens. Der Zug » Brussels Airport Express « fährt mehrmals pro Stunde nach Brüssel Midi.
 
-_Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai._
+_Es gibt auch Verbindungen nach Lille, die nicht über Brüssel Midi, sondern über Courtrai (Kortrijk) oder Tournai fahren._
 
 ## Brüssel, <i class="icon-flight"></i> Flughafen Charleroi
 {: #bruxelles-ac data-next="lille-g" }
 
-Nehmen Sie den Shuttle-Bus zwischen dem Flughafen und den Bahnhöfen Lille (1h30, 5€~35€).
+Nehmen Sie den Shuttle-Bus vom Flughafen zu den Bahnhöfen von Lille (1 Std. 30 Min., 5€~35€).
 
-Il est souhaitable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
+Am besten kaufen Sie eine Fahrkarte im Voraus auf [flibco.com]. Die Fahrkarte kostet dort zwischen 5€ und 17€, (doppelt weniger als direkt beim Busfahrer).
 
-_Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai--Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
+_Es ist auch möglich, aber länger, den Bus [TEC] vom Flughafen zum Bahnhof Charleroi-Sud (20 Min., ~5€) und dann von dort aus einen Zug nach Lille über Tournai (1 Std. 40 Min., ~20€) zu nehmen. Manche Züge Tournai--Lille halten in Ascq. Es ist in diesem Fall möglich, durch das Dorf in 20-25 Min. den Campus zu Fuß zu erreichen._
 
-## Bruxelles, <i class="icon-train"></i> Bahnhof Midi
+## Brüssel, <i class="icon-train"></i> Bahnhof Midi
 {: #bruxelles-g data-next="lille-g" }
 
-Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35min, ~30€).
+Nehmen Sie den TGV, die Thalys oder den [Eurostar] nach Lille (35 Min., ~30€).
 
-Les trains arrivent à la gare Lille Europe.
+Die Züge kommen im Bahnhof Lille Europe an.
 
-_Il est également possible, mais plus long, de prendre un train pour Lille via Tournai (1h40, ~23€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
+_Es ist auch möglich, aber länger, einen Zug nach Lille über Tournai (1 Std. 40 Min., ~23€) zu nehmen. Manche Züge Tournai-Lille halten in Ascq. Es ist in diesem Fall möglich, durch das Dorf in 20-25 Min. den Campus zu Fuß zu erreichen._
 
 # <i class="cityicon-london"></i>London
 {: #londres-g }
 
-## Londres, <i class="icon-train"></i> St Pancras Station
+## London, <i class="icon-train"></i> St Pancras Station
 {: #londres-g data-next="lille-g" }
 
-Prendre l'[Eurostar] jusqu'à la gare Lille Europe (1h30, 80€~240€).
+Nehmen Sie den [Eurostar] nach Lille (Bahnhof Lille Europe, 1 Std. 30 Min., 80€~240€).
 
-Il est conseillé sur le site de l'Eurostar d'être à la gare 40 min avant le départ.
+Es ist auf der Website von [Eurostar] empfohlen, 40 Min. vor der Abfahrt im Bahnhof zu sein.
 
 # <i class="cityicon-paris"></i>Paris
 {: #paris }
@@ -51,59 +51,60 @@ Il est conseillé sur le site de l'Eurostar d'être à la gare 40 min avant le d
 ## Paris, <i class="icon-flight"></i> Flughafen Charles de Gaulle
 {: #paris-ac data-next="paris-g" }
 
-Prendre le TGV jusqu'à Lille (1h, 50€~70€).
+Nehmen Sie den TGV nach Lille (1 Std., 50€~70€).
 
-_Il est également possible de se rendre à la gare Paris-Nord par le [RER-B], puis de rejoindre Lille par TGV. C'est plus long, mais il y a plus de trains._
+_Es ist auch möglich, den [RER-B] bis zum Bahnhof Paris-Nord, und von dort aus den TGV nach Lille zu nehmen. Es ist länger, aber es gibt mehr Züge._
 
 ## Paris, <i class="icon-flight"></i> Flughafen Orly
 {: #paris-ao data-next="paris-g" }
 
-Prendre le métro [Orlyval], descendre à Antony. Prendre alors le métro [RER-B] jusqu'à la gare du Nord. (1h, 12€)
+Nehmen Sie die U-Bahn [Orlyval] und steigen Sie in Antony aus. Nehmen Sie dann die U-Bahn [RER-B] bis zum Bahnhof Paris-Nord (1 Std., 12€).
 
-_Solution alternative : prendre un bus [Orlybus] pour Paris, descendre à Paris à la station « Denfert-Rochereau » et prendre alors le métro [RER-B] jusqu'à la gare du Nord._
+_Andere Möglichkeit: Nehmen Sie den Bus [Orlybus] nach Paris, steigen Sie an der Station » Denfert-Rochereau « aus und nehmen Sie dann die U-Bahn [RER-B] bis zum Bahnhof Paris-Nord._
 
-## Paris, <i class="icon-train"></i> gare du Nord
+## Paris, <i class="icon-train"></i> Bahnhof Nord
 {: #paris-g data-next="lille-g" }
 
-Prendre le TGV jusqu'à Lille (1h, 30€~70€).
+Nehmen Sie den TGV nach Lille (1 Std., 30€~70€).
 
-Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la gare Lille Flandres, mais certains arrivent à la gare Lille Europe.
+Es gibt im Durchschnitt einen TGV pro Stunde. Die meisten Züge kommen im Bahnhof Lille Flandres an, aber manche kommen im Bahnhof Lille Europe an.
 
 # <i class="cityicon-lille"></i>Lille
 {: #lille }
 
-## Lille, <i class="icon-flight"></i> Lesquin Flughafen
+## Lille, <i class="icon-flight"></i> Flughafen Lesquin
 {: #lille-a data-next="lille-g" }
 
-Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20min, 8€).
+Nehmen Sie [den Shuttle-Bus][lille airport shuttle], der direkt zu den Bahnhöfen von Lille fährt (20 Min., 8€).
 
-## Lille, <i class="icon-train"></i> Bahnhöfe Flandres et Europe
+## Lille, <i class="icon-train"></i> Bahnhöfe Flandres und Europe
 {: #lille-g data-next="lille-u" }
 
-Marcher à pied (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
+Gehen Sie zur U-Bahnstation » gare Lille Flandres « der Linie 1 (5 Min. zu Fuß).
 
-[![metro-gares]{: .gares title="Plan métro gares"}][metro-gares]
+[![metro-gares]{:.gares title="U-Bahn – Bahnhöfe – Plan"}][metro-gares]
 
-Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy » (1,60€/trajet + 0,20€ carte rechargeable).
-Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant dernière station). Cette station se trouve au centre du campus.
+Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60 € die Fahrt + 0,20 € die nachfüllbare Karte).
+Steigen Sie (nach 12 Min.) an der Station » Cité Scientifique Pr Gabillard « aus (es ist die vorletzte Station). Diese Station befindet sich mitten im Campus.
 
 ## Lille 1 Universität
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
+[![metro-m2]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-m2]
 
-Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique en travaux (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
 
-## Paul Painlevé Labor und der Mathe-Abteilung
+Gehen Sie an der U-Bahn (bzw. Hochbahn an dieser Stelle) entlang in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische zur Zeit umgebaute Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dessen Dach leicht erkennbar ist.
+
+## Paul Painlevé Labor und Mathe-Abteilung
 {: #lille-l }
 
-Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés juste derrière le bâtiment M1.
+Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden: M2 und M3, direkt hinter dem Gebäude M1.
 
-- **salle de réunion :** bâtiment M2, 1<sup>er</sup> étage
-- **salle Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
-- **salle Duhem :** bâtiment M3, 2<sup>e</sup> étage
-- **salle de visioconférence :** bâtiment M3, 2<sup>e</sup> étage
-- **salle des séminaires :** bâtiment M3, 3<sup>e</sup> étage
+- **salle de réunion :** Gebäude M2, 1. Stock
+- **salle Kampé de Fériet :** Gebäude M2, 1. Stock
+- **salle Duhem :** Gebäude M3, 2. Stock
+- **salle de visioconférence :** Gebäude M3, 2. Stock
+- **salle des séminaires :** Gebäude M3, 3. Stock
 
 
 {::comment}
