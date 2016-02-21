@@ -110,18 +110,18 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 ====================== Le liens ==========================
 {:/comment}
 
-[brussels airport train station]:http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/
+[brussels airport train station]:http://www.brusselsairport.be/en/passngr/to_from_brussels_airport/train/
 
-[flibco.com]:https://www.flibco.com/fr
+[flibco.com]:https://www.flibco.com/en
 [TEC]:https://www.infotec.be/fr-be/medeplacer/horaires/ligne.aspx?ligne=CA
 
-[Eurostar]:http://www.eurostar.com/fr-fr
+[Eurostar]:http://www.eurostar.com/rw-en
 
-[Orlyval]:https://www.orlyval.com/fr
+[Orlyval]:https://www.orlyval.com/en
 [RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
-[Orlybus]:http://www.ratp.fr/fr/ratp/r_61848/orlybus/
+[Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
-[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
