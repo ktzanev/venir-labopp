@@ -11,7 +11,7 @@ permalink: /de/
 ## Brüssel, <i class="icon-flight"></i> Internationaler Flughafen
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Nehmen Sie den Zug zum Bahnhof Brüssel Midi (25 Min., ~9€).
+Nehmen Sie den Zug zum Bahnhof Brüssel Midi / Zuid (25 Min., ~9€).
 
 [Der Bahnhof][brussels airport train station] ist auf Ebene -1 des Flughafens. Der Zug » Brussels Airport Express « fährt mehrmals pro Stunde nach Brüssel Midi.
 
@@ -26,7 +26,7 @@ Am besten kaufen Sie eine Fahrkarte im Voraus auf [flibco.com]. Die Fahrkarte ko
 
 _Es ist auch möglich, aber länger, den Bus [TEC] vom Flughafen zum Bahnhof Charleroi-Sud (20 Min., ~5€) und dann von dort aus einen Zug nach Lille über Tournai (1 Std. 40 Min., ~20€) zu nehmen. Manche Züge Tournai--Lille halten in Ascq. Es ist in diesem Fall möglich, durch das Dorf in 20-25 Min. den Campus zu Fuß zu erreichen._
 
-## Brüssel, <i class="icon-train"></i> Bahnhof Midi
+## Brüssel, <i class="icon-train"></i> Bahnhof Midi / Zuid
 {: #bruxelles-g data-next="lille-g" }
 
 Nehmen Sie den TGV, die Thalys oder den [Eurostar] nach Lille (35 Min., ~30€).
@@ -102,7 +102,7 @@ Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden: M2 und M3, di
 
 - **salle de réunion :** Gebäude M2, 1. Stock
 - **salle Kampé de Fériet :** Gebäude M2, 1. Stock
-- **salle Duhem :** Gebäude M3, 2. Stock
+- **salle Duhem :** Gebäude M3, 1. Stock
 - **salle de visioconférence :** Gebäude M3, 2. Stock
 - **salle des séminaires :** Gebäude M3, 3. Stock
 

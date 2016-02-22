@@ -11,7 +11,7 @@ permalink: /cn/
 ## 布鲁塞尔 <i class="icon-flight"></i> 国际机场
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-从机场乘坐火车至布鲁塞尔南站（la gare Bruxelles Midi）(25 分钟, ~9欧)
+从机场乘坐火车至布鲁塞尔南站(la gare Bruxelles Midi / Zuid)(25 分钟, ~9欧)
 
 机场内部[火车站][brussels airport train station]位于机场-1楼。每小时有好几次前往布鲁塞尔南站的机场快线(Brussels Airport Express )。
 
@@ -27,7 +27,7 @@ _也可以不去布鲁塞尔而从机场转至Courtrai（Kortrijk）或Tourmai�
 
 _也可以乘坐机场至Charleroi-Sud火车站的巴士[TEC]（20分钟，~5欧），然后从那里坐火车去里尔，途经Toumai（1小时40分钟，~20欧）。有些Toumai至Lille的火车会在阿斯克新城停，若在此下车，再步行20至25分钟穿过一个小村庄，亦可到达里尔一大校园。这样的行程更费时_
 
-## 布鲁塞尔, <i class="icon-train"></i> 南站(gare Midi)
+## 布鲁塞尔, <i class="icon-train"></i> 南站(gare Midi / Zuid)
 {: #bruxelles-g data-next="lille-g" }
 
 乘坐高铁（TGV）或Thalys或[欧洲之星][Eurostar]到里尔欧洲站（la gare Lille Europe）（35分钟, ~30欧）。
@@ -101,7 +101,7 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 
 - **réunion 议室 :** M2, 2楼。
 - **Kampé de Fériet 教室 :** M2, 2楼。
-- **Duhem 教室 :** M3, 2楼。
+- **Duhem 教室 :** M3, 1楼。
 - **visioconférence 教室 :** M3, 2楼。
 - **séminaires 教室 :** M3, 3楼。
 

@@ -11,7 +11,7 @@ permalink: /en/
 ## Bruxelles, <i class="icon-flight"></i> International airport
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Take the train to the Brussels Midi train station (25 min, ~9€).
+Take the train to the Brussels Midi / Zuid train station (25 min, ~9€).
 
 [The train station][brussels airport train station] is on level -1 of the airport. The train "Brussels Airport Express" has several departures per hour to Brussels Midi.
 
@@ -26,7 +26,7 @@ It is better to buy your ticket in advance on [flibco.com]. Expect between 5€ 
 
 _It is also possible, but longer, to take the bus [TEC] between the airport and Charleroi-South railway station (20min, ~5€) and from there a train to Lille via Tournai (1h40, ~20€). Some Tournai--Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes by walking through the town._
 
-## Brussels, <i class="icon-train"></i> Midi railway station
+## Brussels, <i class="icon-train"></i> Midi / Zuid railway station
 {: #bruxelles-g data-next="lille-g" }
 
 Take a TGV, Thalys or [Eurostar] to Lille (35min, ~30€).
@@ -103,7 +103,7 @@ Paul Painlevé lab and the Math department occupy two buildings: M2 and M3 which
 
 - **salle de réunion :** building M2, 1<sup>st</sup> floor
 - **salle Kampé de Fériet :** building M2, 1<sup>st</sup> floor
-- **salle Duhem :** building M3, 2<sup>nd</sup> floor
+- **salle Duhem :** building M3, 1<sup>nd</sup> floor
 - **salle de visioconférence :** building M3, 2<sup>nd</sup> floor
 - **salle des séminaires :** building M3, 3<sup>nd</sup> floor
 

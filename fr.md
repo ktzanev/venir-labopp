@@ -11,7 +11,7 @@ permalink: /fr/
 ## Bruxelles, <i class="icon-flight"></i> aéroport International
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Prendre le train pour se rendre à la gare Bruxelles Midi (25 min, ~9€).
+Prendre le train pour se rendre à la gare Bruxelles Midi / Brussel-Zuid (25 min, ~9€).
 
 [La gare][brussels airport train station] se trouve au niveau -1 de l'aéroport. Le train « Brussels Airport Express » part plusieurs fois par heure vers Bruxelles Midi.
 
@@ -22,11 +22,11 @@ _Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles
 
 Prendre la navette entre l'aéroport et les gares de Lille (1h30, 5€~35€).
 
-Il est souhaitable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
+Il est préférable d'acheter votre billet en avance sur [flibco.com]. Compter entre 5€ et 17€ (deux fois moins cher qu'auprès du conducteur).
 
 _Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aéroport et la gare de Charleroi-Sud (20min, ~5€) et de là, un train pour Lille via Tournai (1h40, ~20€). Certains trains Tournai--Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
 
-## Bruxelles, <i class="icon-train"></i> gare Midi
+## Bruxelles, <i class="icon-train"></i> gare Midi (Zuid)
 {: #bruxelles-g data-next="lille-g" }
 
 Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35min, ~30€).
@@ -80,12 +80,12 @@ Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20
 ## Lille, <i class="icon-train"></i> gares Flandres et Europe
 {: #lille-g data-next="lille-u" }
 
-Marcher à pied (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
+Marcher (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
 
 [![metro-gares]{:.gares title="Plan métro – gares"}][metro-gares]
 
 Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy » (1,60€/trajet + 0,20€ carte rechargeable).
-Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant dernière station). Cette station se trouve au centre du campus.
+Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant-dernière arrêt). Cette station se trouve au centre du campus.
 
 ## Université Lille 1
 {: #lille-u data-next="lille-l" }
@@ -101,7 +101,7 @@ Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés jus
 
 - **salle de réunion :** bâtiment M2, 1<sup>er</sup> étage
 - **salle Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
-- **salle Duhem :** bâtiment M3, 2<sup>e</sup> étage
+- **salle Duhem :** bâtiment M3, 1<sup>e</sup> étage
 - **salle de visioconférence :** bâtiment M3, 2<sup>e</sup> étage
 - **salle des séminaires :** bâtiment M3, 3<sup>e</sup> étage
 
