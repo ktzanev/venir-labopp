@@ -87,7 +87,7 @@ Gehen Sie zur U-Bahnstation » gare Lille Flandres « der Linie 1 (5 Min. zu Fu�
 Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60 € die Fahrt + 0,20 € die nachfüllbare Karte).
 Steigen Sie (nach 12 Min.) an der Station » Cité Scientifique Pr Gabillard « aus (es ist die vorletzte Station). Diese Station befindet sich mitten im Campus.
 
-## Lille 1 Universität
+## Lille 1 Universität, Station » Cité Scientifique «
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-m2]

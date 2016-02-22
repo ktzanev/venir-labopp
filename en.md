@@ -90,9 +90,9 @@ Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
 [![metro-gares]{:.gares title="Map metro – railway stations"}][metro-gares]
 
 Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy" (1,60€/ride + 0,20€ rechargeable card).
-Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it's the second to last station). This station is in the center of the campus.
+Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it's the second to last station). This station is inside the campus.
 
-## Lille 1 University
+## Lille 1 University, « Cité Scientifique » station
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
