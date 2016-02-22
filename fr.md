@@ -77,8 +77,8 @@ Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la
 
 Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20min, 8€).
 
-Le même trajet en taxi est de l'ordre de 30€, ou avec [vtc][ecota.co] de l'ordre de 23€.
-Le trajet jusqu'au bâtiment M1 de l'Université Lille 1 en taxi est de l'ordre de 25€ et en [vtc][ecota.co] de l'ordre de 18€ (15min).
+Le même trajet en taxi coûte autour de 30€ (23€ en [vtc][ecota.co]).
+Le trajet jusqu'au bâtiment M1 de l'Université Lille 1 (15min) est de l'ordre de 25€ (18€ en [vtc][ecota.co]).
 
 ## Lille, <i class="icon-train"></i> gares Flandres et Europe
 {: #lille-g data-next="lille-u" }
