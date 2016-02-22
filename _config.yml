@@ -20,6 +20,7 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+  hard_wrap: true
   auto_ids: false
 
 gems:
