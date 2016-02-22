@@ -90,7 +90,7 @@ Marcher (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » 
 Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy » (1,60€/trajet + 0,20€ carte rechargeable).
 Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant-dernière arrêt). Cette station se trouve au cœur du campus.
 
-## Université Lille 1, métro « Cité Scientifique »
+## Université Lille 1, <i class="icon-lille-metro"></i> métro « Cité Scientifique »
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
