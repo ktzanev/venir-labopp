@@ -79,8 +79,8 @@ A train leaves every hour on average. The majority of trains arrive at Lille Fla
 
 Take [the shuttle][lille airport shuttle] that arrives directly to the railaway stations (20min, ~8€).
 
-The same trip by taxi costs about 30€ (23€ with [VTC][ecota.co]).
-The trip to the M1 building of Lille 1 University (15min) is about 25€ (18€ with [VTC][ecota.co]).
+The same trip by taxi costs about 28€ (23€ with [VTC][ecota.co]).
+The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ with [VTC][ecota.co]).
 
 ## Lille, <i class="icon-train"></i> Flandres and Europe railway stations
 {: #lille-g data-next="lille-u" }
