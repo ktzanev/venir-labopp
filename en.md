@@ -106,9 +106,9 @@ Paul Painlevé lab and the Math department occupy two buildings: M2 and M3 which
 
 - **salle de réunion :** building M2, 1<sup>st</sup> floor
 - **salle Kampé de Fériet :** building M2, 1<sup>st</sup> floor
-- **salle Duhem :** building M3, 1<sup>nd</sup> floor
+- **salle Duhem :** building M3, 1<sup>st</sup> floor
 - **salle de visioconférence :** building M3, 2<sup>nd</sup> floor
-- **salle des séminaires :** building M3, 3<sup>nd</sup> floor
+- **salle des séminaires :** building M3, 3<sup>rd</sup> floor
 
 
 {::comment}

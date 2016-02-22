@@ -104,7 +104,7 @@ Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés jus
 
 - **salle de réunion :** bâtiment M2, 1<sup>er</sup> étage
 - **salle Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
-- **salle Duhem :** bâtiment M3, 1<sup>e</sup> étage
+- **salle Duhem :** bâtiment M3, 1<sup>er</sup> étage
 - **salle de visioconférence :** bâtiment M3, 2<sup>e</sup> étage
 - **salle des séminaires :** bâtiment M3, 3<sup>e</sup> étage
 
