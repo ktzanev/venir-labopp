@@ -77,6 +77,8 @@ Es gibt im Durchschnitt einen TGV pro Stunde. Die meisten Züge kommen im Bahnho
 
 Nehmen Sie [den Shuttle-Bus][lille airport shuttle], der direkt zu den Bahnhöfen von Lille fährt (20 Min., 8€).
 
+Die gleiche Fahrt mit dem Taxi kostet um die 28€ (23€ mit [VTC][ecota.co]) . Die Fahrt zum Gebäude M1 der Universität Lille 1 (15 min) kostet ca. 23€ (18€ mit [VTC][ecota.co]).
+
 ## Lille, <i class="icon-train"></i> Bahnhöfe Flandres und Europe
 {: #lille-g data-next="lille-u" }
 
@@ -84,7 +86,7 @@ Gehen Sie zur U-Bahnstation » gare Lille Flandres « der Linie 1 (5 Min. zu Fu�
 
 [![metro-gares]{:.gares title="U-Bahn – Bahnhöfe – Plan"}][metro-gares]
 
-Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60 € die Fahrt + 0,20 € die nachfüllbare Karte).
+Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60€ die Fahrt + 0,20€ die nachfüllbare Karte).
 Steigen Sie (nach 12 Min.) an der Station » Cité Scientifique Pr Gabillard « aus (es ist die vorletzte Station). Diese Station befindet sich mitten im Campus.
 
 ## Lille 1 Universität, <i class="icon-lille-metro"></i> Station » Cité Scientifique «
@@ -124,6 +126,7 @@ Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden: M2 und M3, di
 [Orlybus]:http://www.ratp.fr/fr/ratp/r_61848/orlybus/
 
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[ecota.co]:https://app.ecota.co/en/courses/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
