@@ -99,6 +99,7 @@ Longer le métro (qui est aérien à cet endroit) en direction (sud) de la stati
 
 Le laboratoire et l'UFR occupent deux bâtiments : M2 et M3 qui sont situés juste derrière le bâtiment M1.
 
+- **secrétariat du laboratoire :** bâtiment M2, 1<sup>er</sup> étage
 - **salle de réunion :** bâtiment M2, 1<sup>er</sup> étage
 - **salle Kampé de Fériet :** bâtiment M2, 1<sup>er</sup> étage
 - **salle Duhem :** bâtiment M3, 1<sup>e</sup> étage

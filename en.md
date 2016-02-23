@@ -104,6 +104,7 @@ Walk along the metro (skytrain here) towards (south) to the next station ("4 Can
 
 Paul Painlevé lab and the Math department occupy two buildings: M2 and M3 which are located just behind the building M1.
 
+- **laboratory office :** building M2, 1<sup>st</sup> floor
 - **salle de réunion :** building M2, 1<sup>st</sup> floor
 - **salle Kampé de Fériet :** building M2, 1<sup>st</sup> floor
 - **salle Duhem :** building M3, 1<sup>st</sup> floor

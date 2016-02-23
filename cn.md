@@ -99,6 +99,7 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 
 实验室和数学学院有两栋楼：M2和M3，位于M1后面。
 
+- **实验室秘书处 :** M2, 1楼。
 - **réunion 议室 :** M2, 1楼。
 - **Kampé de Fériet 教室 :** M2, 1楼。
 - **Duhem 教室 :** M3, 1楼。
