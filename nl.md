@@ -3,6 +3,9 @@ title: Hoe om te komen ...
 description: Geeft aan hoe de wiskunde laboratorium Paul Painlevé (Universiteit van Lille)krijgen vanuit verschillende uitgangspunten.
 layout: goto
 permalink: /nl/
+modified:
+  format: "Page modifiée le %d/%m/%Y"
+  date: 2016-02-26
 ---
 
 # <i class="cityicon-bruxelles"></i>Bruxelles

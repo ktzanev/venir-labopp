@@ -3,6 +3,9 @@ title: How to come from ...
 description: Indicates how to get to the math lab "Paul Painlevé" of University of Lille from various starting points.
 layout: goto
 permalink: /en/
+modified:
+  format: "Last modified on %B %d, %Y"
+  date: 2016-02-26
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussels

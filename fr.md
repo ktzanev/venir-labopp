@@ -3,6 +3,9 @@ title: Comment venir de ...
 description: Indique comment se rendre au laboratoire de mathématiques Paul Painlevé de Lille à partir de divers points de départ.
 layout: goto
 permalink: /fr/
+modified:
+  format: "Page modifiée le %d/%m/%Y"
+  date: 2016-02-26
 ---
 
 # <i class="cityicon-bruxelles"></i>Bruxelles

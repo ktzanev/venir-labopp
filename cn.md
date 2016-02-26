@@ -3,6 +3,9 @@ title: 如何来
 description: 指明如何从不同的地方来里尔一大数学Paul Painlevé 实验室。
 layout: goto
 permalink: /cn/
+modified:
+  format: "网页更新 %Y年%m月%d日"
+  date: 2016-02-26
 ---
 
 # <i class="cityicon-bruxelles"></i>布鲁塞尔
