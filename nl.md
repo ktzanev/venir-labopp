@@ -80,8 +80,8 @@ Gemiddeld is er een TGV ieder uur. De meeste TGV's gaan naar het station "Lille 
 
 Neem [de shuttle][lille airport shuttle] die regelrecht naar de treinstations van Lille gaat (20min, 8€).
 
-Hetzelfde traject met een taxi kost ongeveer 28€ (23€ met een [vtc]).
-Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille 1 (15 min), dan kost dat ongeveer 23€ (18€ met een [vtc]).
+Hetzelfde traject met een taxi kost ongeveer 28€ (23€ met een [VTC][ecota.co]).
+Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille 1 (15 min), dan kost dat ongeveer 23€ (18€ met een [VTC][ecota.co]).
 
 ## Rijsel, <i class="icon-train"></i> treinstations "Lille Flandres" en "Lille Europe"
 {: #lille-g data-next="lille-u" }
