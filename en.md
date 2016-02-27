@@ -5,7 +5,7 @@ layout: goto
 permalink: /en/
 modified:
   format: "Last modified on %B %d, %Y"
-  date: 2016-02-26
+  date: 2016-02-27
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussels
@@ -58,14 +58,12 @@ Take the TGV to Lille (1h, 50€~70€).
 
 _It is also possible to go to Paris-Nord railway station by metro [RER-B], then to join Lille by TGV. It is longer, but there are more trains._
 
-## Paris, <i class="icon-flight"></i> d'Orly airport
+## Paris, <i class="icon-flight"></i> Orly airport
 {: #paris-ao data-next="paris-g" }
 
 Take the metro [Orlyval], get off at "Antony" station. Take the metro [RER-B] to "gare du Nord" station. (1h, 12€)
 
 _Alternative solution: take a bus [Orlybus] to Paris, get off at Paris - "Denfert-Rochereau" station and then take the metro [RER-B] to "gare du Nord" station._
-
-
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
@@ -90,12 +88,14 @@ The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ 
 
 Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
 
+_Warning: from the station "Lille Europe" you must follow the signs "Gare Lille Flandres" and not the signs "Metro" as they lead you to a line 2 station._
+
 [![metro-gares]{:.gares title="Map metro – railway stations"}][metro-gares]
 
 Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy" (1,60€/ride + 0,20€ rechargeable card).
 Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it's the second to last station). This station is inside the campus.
 
-## Lille 1 University, <i class="icon-lille-metro"></i> « Cité Scientifique » station
+## Lille 1 University, <i class="icon-lille-metro"></i> « Cité Scientifique » metro station
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]

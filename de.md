@@ -87,6 +87,8 @@ Die gleiche Fahrt mit dem Taxi kostet um die 28€ (23€ mit [VTC][ecota.co]) .
 
 Gehen Sie zur U-Bahnstation » gare Lille Flandres « der Linie 1 (5 Min. zu Fuß).
 
+_Achtung! Ab Bahnhof "Lille Europe" gehen Sie Richtung "Lille Flandres" und nicht Richtung "Métro", denn es führt nach einer Metrostation der Linie 2._
+
 [![metro-gares]{:.gares title="U-Bahn – Bahnhöfe – Plan"}][metro-gares]
 
 Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60€ die Fahrt + 0,20€ die nachfüllbare Karte).
