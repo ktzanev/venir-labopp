@@ -5,7 +5,7 @@ layout: goto
 permalink: /de/
 modified:
   format: "Seite aktualisiert: %d.%m.%Y"
-  date: 2016-02-26
+  date: 2016-02-27
 ---
 
 # <i class="cityicon-bruxelles"></i>Brüssel

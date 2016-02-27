@@ -5,7 +5,7 @@ layout: goto
 permalink: /cn/
 modified:
   format: "网页更新 %Y年%m月%d日"
-  date: 2016-02-26
+  date: 2016-02-27
 ---
 
 # <i class="cityicon-bruxelles"></i>布鲁塞尔
