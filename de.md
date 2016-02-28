@@ -105,7 +105,7 @@ Gehen Sie an der U-Bahn (bzw. Hochbahn an dieser Stelle) entlang in Richtung »�
 ## Paul Painlevé Labor und Mathe-Abteilung
 {: #lille-l }
 
-Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden: M2 und M3, direkt hinter dem Gebäude M1.
+Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden, M2 und M3, direkt hinter dem Gebäude M1.
 
 - **Labor Sekretariat :** Gebäude M2, 1. Stock
 - **salle de réunion :** Gebäude M2, 1. Stock
