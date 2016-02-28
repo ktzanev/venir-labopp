@@ -64,7 +64,7 @@ Neem de metro [Orlyval] et stap in Antony uit. Aldaar de metro [RER-B] nemen naa
 
 _Een alternatief is de bus [Orlybus] naar Parijs te nemen en uit te stappen bij het station 'Denfert-Rochereau' en dáár de metro [RER-B] te nemen naar het treinstation 'Gare du Nord'._
 
-## Paris, <i class="icon-train"></i> treinstation 'Gare du Nord'
+## Parijs, <i class="icon-train"></i> treinstation 'Gare du Nord'
 {: #paris-g data-next="lille-g" }
 
 Neem de TGV naar Lille (1h, 30€~70€).
