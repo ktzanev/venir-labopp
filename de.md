@@ -6,7 +6,7 @@ permalink: /de/
 modified:
   text: "Seite aktualisiert:"
   format: "%d.%m.%Y"
-  date: 2016-02-27
+  date: 2016-02-28
 ---
 
 # <i class="cityicon-bruxelles"></i>Brüssel

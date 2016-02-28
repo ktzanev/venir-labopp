@@ -6,7 +6,7 @@ permalink: /en/
 modified:
   text: Last modified on
   format: "%B %d, %Y"
-  date: 2016-02-27
+  date: 2016-02-28
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussels

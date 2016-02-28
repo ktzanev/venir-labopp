@@ -6,7 +6,7 @@ permalink: /nl/
 modified:
   text: Pagina laatst gewijzigd op
   format: "%d-%m-%Y"
-  date: 2016-02-27
+  date: 2016-02-28
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussel
