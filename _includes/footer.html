@@ -6,6 +6,6 @@
   </span>
   <!-- last modified -->
   <div class="lastmodified">
-    {{page.modified.date | date:page.modified.format}}
+    {{page.modified.text}} <time datetime="{{page.modified.date}}" pubdate>{{page.modified.date | date:page.modified.format}}</time>
   </div>
 </footer>

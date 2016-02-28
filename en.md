@@ -4,7 +4,8 @@ description: Indicates how to get to the math lab "Paul Painlevé" of University
 layout: goto
 permalink: /en/
 modified:
-  format: "Last modified on %B %d, %Y"
+  text: Last modified on
+  format: "%B %d, %Y"
   date: 2016-02-27
 ---
 

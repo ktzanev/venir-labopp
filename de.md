@@ -4,7 +4,8 @@ description: Erklärt, wie man aus verschiedenen Ausgangspünkten zum Mathematik
 layout: goto
 permalink: /de/
 modified:
-  format: "Seite aktualisiert: %d.%m.%Y"
+  text: "Seite aktualisiert:"
+  format: "%d.%m.%Y"
   date: 2016-02-27
 ---
 

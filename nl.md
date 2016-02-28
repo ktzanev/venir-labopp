@@ -4,7 +4,8 @@ description: Geeft aan hoe men vanaf verschillende vertrekpunten naar het "labor
 layout: goto
 permalink: /nl/
 modified:
-  format: "Pagina laatst gewijzigd op %d-%m-%Y"
+  text: Pagina laatst gewijzigd op
+  format: "%d-%m-%Y"
   date: 2016-02-27
 ---
 

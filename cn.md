@@ -4,7 +4,8 @@ description: 指明如何从不同的地方来里尔一大数学Paul Painlevé �
 layout: goto
 permalink: /cn/
 modified:
-  format: "网页更新 %Y年%m月%d日"
+  text: 网页更新
+  format: "%Y年%m月%d日"
   date: 2016-02-27
 ---
 

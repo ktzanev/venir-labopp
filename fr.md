@@ -4,7 +4,8 @@ description: Indique comment se rendre au laboratoire de mathématiques Paul Pai
 layout: goto
 permalink: /fr/
 modified:
-  format: "Page modifiée le %d/%m/%Y"
+  text: Page modifiée le
+  format: "%d/%m/%Y"
   date: 2016-02-27
 ---
 
