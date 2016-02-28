@@ -33,9 +33,7 @@ _Es ist auch möglich, aber länger, den Bus [TEC] vom Flughafen zum Bahnhof Cha
 ## Brüssel, <i class="icon-train"></i> Bahnhof Midi / Zuid
 {: #bruxelles-g data-next="lille-g" }
 
-Nehmen Sie den TGV, die Thalys oder den [Eurostar] nach Lille (35 Min., ~30€).
-
-Die Züge kommen im Bahnhof Lille Europe an.
+Nehmen Sie den TGV, die Thalys oder den [Eurostar] nach Bahnhof Lille Europe (35 Min., ~30€).
 
 _Es ist auch möglich, aber länger, einen Zug nach Lille über Tournai (1 Std. 40 Min., ~23€) zu nehmen. Manche Züge Tournai-Lille halten in Ascq. Es ist in diesem Fall möglich, durch das Dorf in 20-25 Min. den Campus zu Fuß zu erreichen._
 
@@ -45,7 +43,7 @@ _Es ist auch möglich, aber länger, einen Zug nach Lille über Tournai (1 Std. 
 ## London, <i class="icon-train"></i> St Pancras Station
 {: #londres-g data-next="lille-g" }
 
-Nehmen Sie den [Eurostar] nach Lille (Bahnhof Lille Europe, 1 Std. 30 Min., 80€~240€).
+Nehmen Sie den [Eurostar] nach Bahnhof Lille Europe (1 Std. 30 Min., 80€~240€).
 
 Es ist auf der Website von [Eurostar] empfohlen, 40 Min. vor der Abfahrt im Bahnhof zu sein.
 

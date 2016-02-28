@@ -33,9 +33,7 @@ _It is also possible, but longer, to take the bus [TEC] between the airport and 
 ## Brussels, <i class="icon-train"></i> Midi / Zuid railway station
 {: #bruxelles-g data-next="lille-g" }
 
-Take a TGV, Thalys or [Eurostar] to Lille (35min, ~30€).
-
-Trains arrive at the Lille Europe station.
+Take a TGV, Thalys or [Eurostar] to Lille Europe station (35min, ~30€).
 
 _It is also possible, but longer, to take a train to Lille via Tournai (1h40, ~23€). Some Tournai-Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes through the town on foot._
 

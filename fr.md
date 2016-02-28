@@ -33,9 +33,7 @@ _Il est également possible, mais plus long, de prendre le bus [TEC] entre l'aé
 ## Bruxelles, <i class="icon-train"></i> gare Midi (Zuid)
 {: #bruxelles-g data-next="lille-g" }
 
-Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à Lille (35min, ~30€).
-
-Les trains arrivent à la gare Lille Europe.
+Prendre un TGV, un Thalys ou un [Eurostar] jusqu'à la gare Lille Europe (35min, ~30€).
 
 _Il est également possible, mais plus long, de prendre un train pour Lille via Tournai (1h40, ~23€). Certains trains Tournai-Lille s'arrêtent à Ascq. Il est alors possible de rejoindre le campus en 20-25 minutes en traversant le village à pied._
 
