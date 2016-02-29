@@ -28,7 +28,7 @@ Neem de pendelbus naar het treinstation 'Lille Europe' (1h30, 5€~35€).
 
 Het is verstandig Uw kaartje van te voren te kopen op [flibco.com]. Dat kost tussen de 5€ en 17€ (twee keer zo goedkoop als bij de bestuurder).
 
-_Het is ook mogelijk, maar dat duurt langer, om de bus [TEC] te nemen naar het treinstation van Charleroi-Sud (20min, ~5€) en dáár een trein naar Rijsel (Lille) via Doornik (Tournai) te nemen (1h40, ~20€). Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
+_Het is ook mogelijk, maar dat duurt langer, om de bus [TEC] te nemen naar het treinstation van Charleroi-Sud (20min, ~5€) en daar een trein naar Rijsel (Lille) via Doornik (Tournai) te nemen (1h40, ~20€). Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
 
 ## Brussel, <i class="icon-train"></i> treinstation 'Brussel Zuid / Bruxelles Midi'
 {: #bruxelles-g data-next="lille-g" }
