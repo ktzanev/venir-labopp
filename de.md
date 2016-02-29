@@ -19,7 +19,7 @@ Nehmen Sie den Zug zum Bahnhof Brüssel Midi / Zuid (25 Min., ~9€).
 
 [Der Bahnhof][brussels airport train station] ist auf Ebene -1 des Flughafens. Der Zug » Brussels Airport Express « fährt mehrmals pro Stunde nach Brüssel Midi.
 
-_Es gibt auch Verbindungen nach Lille, die nicht über Brüssel Midi, sondern über Courtrai (Kortrijk) oder Tournai fahren._
+_Es gibt auch Verbindungen nach Lille, die nicht über Brüssel Midi, sondern über Gent (Gand), Kortrijk (Courtrai) oder Tournai (Doornik) fahren._
 
 ## Brüssel, <i class="icon-flight"></i> Flughafen Charleroi
 {: #bruxelles-ac data-next="lille-g" }

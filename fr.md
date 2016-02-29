@@ -19,7 +19,7 @@ Prendre le train pour se rendre à la gare Bruxelles Midi / Brussel-Zuid (25 min
 
 [La gare][brussels airport train station] se trouve au niveau -1 de l'aéroport. Le train « Brussels Airport Express » part plusieurs fois par heure vers Bruxelles Midi.
 
-_Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Courtrai (Kortrijk) ou par Tournai._
+_Il existe aussi des correspondances pour Lille qui ne passent pas par Bruxelles Midi, mais par Gand (Gent), Courtrai (Kortrijk) ou par Tournai (Doornik)._
 
 ## Bruxelles, <i class="icon-flight"></i> aéroport Charleroi
 {: #bruxelles-ac data-next="lille-g" }
@@ -87,7 +87,7 @@ Le trajet jusqu'au bâtiment M1 de l'Université Lille 1 (15min) est de l'ordre 
 
 Marcher (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
 
-_Attention: à partir de la gare « Lille Europe » il faut suivre les panneaux « Gare Lille Flandres » et non les panneaux « Métro » car ils vous mènent vers une station de la ligne 2._
+_Pour rejoindre à pied la ligne 1 à partir de la gare « Lille Europe » il faut suivre les panneaux « Gare Lille Flandres » et non les panneaux « Métro » car ils vous mènent vers une station de la ligne 2. Il est toutefois possible de prendre la ligne 2 pour une station (en cas de pluie, par exemple)._
 
 [![metro-gares]{:.gares title="Plan métro – gares"}][metro-gares]
 

@@ -19,7 +19,7 @@ Take the train to the Brussels Midi / Zuid train station (25 min, ~9€).
 
 [The train station][brussels airport train station] is on level -1 of the airport. The train "Brussels Airport Express" has several departures per hour to Brussels Midi.
 
-_There are also connections to Lille which do not pass through Brussels Midi, but Kortrijk or Tournai._
+_There are also connections to Lille which do not pass through Brussels Midi, but Gent (Gand), Kortrijk (Courtrai) or Tournai (Doornik)._
 
 ## Brussels, <i class="icon-flight"></i> Charleroi airport
 {: #bruxelles-ac data-next="lille-g" }
@@ -87,7 +87,7 @@ The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ 
 
 Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
 
-_Warning: from the station "Lille Europe" you must follow the signs "Gare Lille Flandres" and not the signs "Metro" as they lead you to a line 2 station._
+_To join line 1 from the station "Lille Europe" by walking you must follow the signs "Gare Lille Flandres" and not the signs "Metro" as they lead you to a line 2 station. It is also possible to take line 2 for one station (in case of rain, for example)._
 
 [![metro-gares]{:.gares title="Map metro – railway stations"}][metro-gares]
 

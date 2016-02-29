@@ -19,7 +19,7 @@ Neem de trein naar 'Brussel Zuid / Bruxelles Midi' (25 min, ~9€).
 
 [Het treinstation][brussels airport train station] bevindt zich in de kelderverdieping (niveau -1) van de luchthaven. De 'Brussels Airport Express' vertrekt meerdere malen per uur naar Brussel Zuid.
 
-_In plaats van via 'Brussel Zuid' kan men ook met de trein via Kortrijk (Courtrai) of Doornik (Tournai) naar Rijsel (Lille) komen._
+_In plaats van via 'Brussel Zuid' kan men ook met de trein via Gent (Gand), Kortrijk (Courtrai) of Doornik (Tournai) naar Rijsel (Lille) komen._
 
 ## Brussel, <i class="icon-flight"></i> Brussels South Charleroi Airport
 {: #bruxelles-ac data-next="lille-g" }
@@ -28,7 +28,7 @@ Neem de pendelbus naar het treinstation 'Lille Europe' (1h30, 5€~35€).
 
 Het is verstandig Uw kaartje van te voren te kopen op [flibco.com]. Dat kost tussen de 5€ en 17€ (twee keer zo goedkoop als bij de bestuurder).
 
-_Het is ook mogelijk, maar dat duurt langer, om de bus [TEC] te nemen naar het treinstation van Charleroi-Sud (20min, ~5€) en daar een trein naar Rijsel via Doornik te nemen (1h40, ~20€). Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
+_Het is ook mogelijk, maar dat duurt langer, om de bus [TEC] te nemen naar het treinstation van Charleroi-Sud (20min, ~5€) en dáár een trein naar Rijsel via Doornik te nemen (1h40, ~20€). Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
 
 ## Brussel, <i class="icon-train"></i> treinstation 'Brussel Zuid / Bruxelles Midi'
 {: #bruxelles-g data-next="lille-g" }
@@ -55,7 +55,7 @@ Op de website van de Eurostar wordt aangeraden om 40 minuten voor vertrek in het
 
 Neem een TGV naar Lille (1h, 50€~70€). Afhankelijk van de trein komt men aan op het station 'Lille Flandres' of 'Lille Europe'.
 
-_Men kan ook met de metro [RER-B] naar het treinstation 'Gare du Nord' gaan en daar een TGV naar Lille nemen. De reistijd is dan langer, maar er zijn vaker treinen._
+_Men kan ook met de metro [RER-B] naar het treinstation 'Gare du Nord' gaan en dáár een TGV naar Lille nemen. De reistijd is dan langer, maar er zijn vaker treinen._
 
 ## Parijs, <i class="icon-flight"></i> luchthaven van Orly
 {: #paris-ao data-next="paris-g" }
@@ -85,9 +85,9 @@ Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille 1 
 ## Rijsel, <i class="icon-train"></i> treinstations 'Lille Flandres' en 'Lille Europe'
 {: #lille-g data-next="lille-u" }
 
-Lopen naar het metrostation 'Gare Lille Flandres' (5 min).
+Lopen naar het metrostation 'Gare Lille Flandres' (5 min vanaf treinstation 'Lille Europe').
 
-_Opgepast, op het station 'Lille Europe' moet men de bordjes 'Gare Lille Flandres' volgen, niet de bordjes `Métro', want die brengen U bij een metrostation van lijn 2._
+_Opgepast, op het station 'Lille Europe' moet men de bordjes 'Gare Lille Flandres' volgen, niet de bordjes 'Métro', want dan komt U bij een metrostation van lijn 2. Als het regent kunt U die voor één halte nemen en dan overstappen op lijn 1._
 
 [![metro-gares]{:.gares title="Plan métro – gares"}][metro-gares]
 
