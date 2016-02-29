@@ -28,14 +28,14 @@ Neem de pendelbus naar het treinstation 'Lille Europe' (1h30, 5€~35€).
 
 Het is verstandig Uw kaartje van te voren te kopen op [flibco.com]. Dat kost tussen de 5€ en 17€ (twee keer zo goedkoop als bij de bestuurder).
 
-_Het is ook mogelijk, maar dat duurt langer, om de bus [TEC] te nemen naar het treinstation van Charleroi-Sud (20min, ~5€) en dáár een trein naar Rijsel via Doornik te nemen (1h40, ~20€). Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
+_Het is ook mogelijk, maar dat duurt langer, om de bus [TEC] te nemen naar het treinstation van Charleroi-Sud (20min, ~5€) en dáár een trein naar Rijsel (Lille) via Doornik (Tournai) te nemen (1h40, ~20€). Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
 
 ## Brussel, <i class="icon-train"></i> treinstation 'Brussel Zuid / Bruxelles Midi'
 {: #bruxelles-g data-next="lille-g" }
 
 Neem een TGV, een Thalys of een [Eurostar] naar het treinstation 'Lille Europe' (35min, ~30€).
 
-_Het is ook mogelijk om een trein via Doornik naar Rijsel te nemen (1h40, ~23€), maar de reistijd is dan langer. Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
+_Het is ook mogelijk om een trein via Doornik (Tournai) naar Rijsel (Lille) te nemen (1h40, ~23€), maar de reistijd is dan langer. Sommige treinen Doornik-Rijsel stoppen in Ascq. Als men daar uitstapt is het nog een wandeling van 20-25 minuten door het dorp naar de campus._
 
 # <i class="cityicon-london"></i>Londen
 {: #londres-g }
@@ -71,10 +71,10 @@ Neem de TGV naar Lille (1h, 30€~70€).
 
 Gemiddeld is er een TGV ieder uur. De meeste TGV's gaan naar het station 'Lille Flandres', maar sommigen gaan naar het station 'Lille Europe'.
 
-# <i class="cityicon-lille"></i>Rijsel
+# <i class="cityicon-lille"></i>Rijsel (Lille)
 {: #lille }
 
-## Rijsel, <i class="icon-flight"></i> luchthaven van Lesquin
+## Rijsel (Lille), <i class="icon-flight"></i> luchthaven van Lesquin
 {: #lille-a data-next="lille-g" }
 
 Neem [de shuttle][lille airport shuttle] die regelrecht naar de treinstations van Lille gaat (20min, 8€).
@@ -82,7 +82,7 @@ Neem [de shuttle][lille airport shuttle] die regelrecht naar de treinstations va
 Hetzelfde traject met een taxi kost ongeveer 28€ (23€ met een [VTC][ecota.co]).
 Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille 1 (15 min), dan kost dat ongeveer 23€ (18€ met een [VTC][ecota.co]).
 
-## Rijsel, <i class="icon-train"></i> treinstations 'Lille Flandres' en 'Lille Europe'
+## Rijsel (Lille), <i class="icon-train"></i> treinstations 'Lille Flandres' en 'Lille Europe'
 {: #lille-g data-next="lille-u" }
 
 Lopen naar het metrostation 'Gare Lille Flandres' (5 min vanaf treinstation 'Lille Europe').
