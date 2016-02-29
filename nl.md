@@ -3,6 +3,7 @@ title: Hoe kom ik er vanuit ...
 description: Geeft aan hoe men vanaf verschillende vertrekpunten naar het 'laboratoire de mathématiques Paul Painlevé de Lille' komt..
 layout: goto
 permalink: /nl/
+edit: bewerk deze pagina
 modified:
   text: Pagina laatst gewijzigd op
   format: "%d-%m-%Y"

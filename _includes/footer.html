@@ -2,10 +2,15 @@
 
   <!-- Le ruban GitHub -->
   <span id="forkongithub">
-    <a href="https://github.com/ktzanev/venir-labopp">Voir sur GitHub</a>
+    <a href="https://github.com/{{site.github.user}}{{site.baseurl}}">Voir sur GitHub</a>
   </span>
   <!-- last modified -->
-  <div class="lastmodified">
-    {{page.modified.text}} <time datetime="{{page.modified.date}}" pubdate>{{page.modified.date | date:page.modified.format}}</time>
+  <div class="modifycontainer">
+    <div class="lastmodified">
+      {{page.modified.text}} <time datetime="{{page.modified.date}}" pubdate>{{page.modified.date | date:page.modified.format}}</time>
+    </div>
+    <div class="editpage">
+      <a href="https://github.com/{{site.github.user}}{{site.baseurl}}edit/{{site.github.branch}}/{{page.path}}">{{page.edit}}</a>
+    </div>
   </div>
 </footer>

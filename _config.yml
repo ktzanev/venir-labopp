@@ -2,6 +2,9 @@
 title: Comment venir au laboratoire de mathématiques Paul Painlevé de Lille
 email: kroum.tzanev@math.univ-lille1.fr
 url: "https://ktzanev.github.io" # the base hostname & protocol for your site
+github:
+  user : ktzanev
+  branch: gh-pages
 baseurl: "/venir-labopp/" # the subpath of your site, e.g. /blog/
 address: > #   L'adresse du laboratoire
   bâtiment M2<br>

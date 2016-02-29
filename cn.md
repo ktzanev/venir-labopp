@@ -3,6 +3,7 @@ title: 如何来
 description: 指明如何从不同的地方来里尔一大数学Paul Painlevé 实验室。
 layout: goto
 permalink: /cn/
+edit : 编辑此页
 modified:
   text: 网页更新
   format: "%Y年%m月%d日"

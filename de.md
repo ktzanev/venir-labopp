@@ -3,6 +3,7 @@ title: Wie komme ich von...
 description: Erklärt, wie man aus verschiedenen Ausgangspünkten zum Mathematiklabor Paul Painlevé an der Universität von Lille kommt.
 layout: goto
 permalink: /de/
+edit: diese Seite bearbeiten
 modified:
   text: "Seite aktualisiert:"
   format: "%d.%m.%Y"
