@@ -7,7 +7,7 @@ edit: edit this page
 modified:
   text: Last modified on
   format: "%B %d, %Y"
-  date: 2016-02-28
+  date: 2016-03-01
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussels
@@ -16,27 +16,27 @@ modified:
 ## Bruxelles, <i class="icon-flight"></i> International airport
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-Take the train to the Brussels Midi / Zuid train station (25 min, ~9€).
+Take a train to the Brussels Midi / Zuid train station (25 min, ~9€).
 
-[The train station][brussels airport train station] is on level -1 of the airport. The train "Brussels Airport Express" has several departures per hour to Brussels Midi.
+[The train station][brussels airport train station] is on the level -1 of the airport. The service "Brussels Airport Express" proposes several departures per hour to Brussels Midi.
 
-_There are also connections to Lille which do not pass through Brussels Midi, but Gent (Gand), Kortrijk (Courtrai) or Tournai (Doornik)._
+_There are also connections to Lille which instead of Brussels Midi pass through Gent (Gand), Kortrijk (Courtrai) or Tournai (Doornik)._
 
 ## Brussels, <i class="icon-flight"></i> Charleroi airport
 {: #bruxelles-ac data-next="lille-g" }
 
-Take the shuttle bus between the airport and Lille train stations (1h30, 5€~35€).
+Take the shuttle bus between the airport and the Lille train stations (1h30, 5€~35€).
 
-It is better to buy your ticket in advance on [flibco.com]. Expect between 5€ and 17€ (two times cheaper than purchased from the driver).
+It is better to buy your ticket in advance on [flibco.com]. Expect to pay between 5€ and 17€ (half the price of that purchased from the driver).
 
-_It is also possible, but longer, to take the bus [TEC] between the airport and Charleroi-South railway station (20min, ~5€) and from there a train to Lille via Tournai (1h40, ~20€). Some Tournai--Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes by walking through the town._
+_It is also possible but takes longer to take the bus [TEC] between the airport and the Charleroi-South railway station (20min, ~5€) and from there a train to Lille via Tournai (1h40, ~20€). Some of the Tournai--Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes by walking through the town._
 
 ## Brussels, <i class="icon-train"></i> Midi / Zuid railway station
 {: #bruxelles-g data-next="lille-g" }
 
-Take a TGV, Thalys or [Eurostar] to Lille Europe station (35min, ~30€).
+Take a TGV, Thalys or [Eurostar] to the Lille Europe station (35min, ~30€).
 
-_It is also possible, but longer, to take a train to Lille via Tournai (1h40, ~23€). Some Tournai-Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes through the town on foot._
+_It is also possible, but takes longer, to take a train to Lille via Tournai (1h40, ~23€). Some of the Tournai-Lille trains stop at Ascq. It is possible to reach the campus in 20-25 minutes through the town on foot._
 
 # <i class="cityicon-london"></i>London
 {: #londres-g }
@@ -44,7 +44,7 @@ _It is also possible, but longer, to take a train to Lille via Tournai (1h40, ~2
 ## London, <i class="icon-train"></i> St Pancras station
 {: #londres-g data-next="lille-g" }
 
-Take the [Eurostar] to Lille Europe station (1h30, 80€~240€).
+Take the [Eurostar] to the Lille Europe station (1h30, 80€~240€).
 
 It is recommended on the Eurostar website to be at the station 40 minutes before departure.
 
@@ -56,21 +56,22 @@ It is recommended on the Eurostar website to be at the station 40 minutes before
 
 Take the TGV to Lille (1h, 50€~70€).
 
-_It is also possible to go to Paris-Nord railway station by metro [RER-B], then to join Lille by TGV. It is longer, but there are more trains._
+_It is also possible to go to the Paris-Nord railway station by metro [RER-B] and then to reach Lille by TGV. This takes longer but connections
+are more frequent._
 
 ## Paris, <i class="icon-flight"></i> Orly airport
 {: #paris-ao data-next="paris-g" }
 
-Take the metro [Orlyval], get off at "Antony" station. Take the metro [RER-B] to "gare du Nord" station. (1h, 12€)
+Take the metro [Orlyval], get off at "Antony" station. Take the metro [RER-B] to the "Gare du Nord" station. (1h, 12€)
 
-_Alternative solution: take a bus [Orlybus] to Paris, get off at Paris - "Denfert-Rochereau" station and then take the metro [RER-B] to "gare du Nord" station._
+_Alternative solution: take a bus [Orlybus] to Paris, get off at Paris at the "Denfert-Rochereau" station and then take the metro [RER-B] to the "Gare du Nord" station._
 
 ## Paris, <i class="icon-train"></i> gare du Nord
 {: #paris-g data-next="lille-g" }
 
 Take the TGV to Lille (1h, 30€~70€).
 
-A train leaves every hour on average. The majority of trains arrive at Lille Flandres station, but some arrive at Lille Europe station.
+On an average a train leaves every hour. The majority of the trains arrive at the Lille Flandres station but some arrive at the Lille Europe station.
 
 # <i class="cityicon-lille"></i>Lille
 {: #lille }
@@ -78,7 +79,7 @@ A train leaves every hour on average. The majority of trains arrive at Lille Fla
 ## Lille, <i class="icon-flight"></i> Lesquin airport
 {: #lille-a data-next="lille-g" }
 
-Take [the shuttle][lille airport shuttle] that arrives directly to the railaway stations (20min, ~8€).
+Take [the shuttle][lille airport shuttle] that arrives directly to the railway stations (20min, ~8€).
 
 The same trip by taxi costs about 28€ (23€ with [VTC][ecota.co]).
 The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ with [VTC][ecota.co]).
@@ -88,7 +89,7 @@ The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ 
 
 Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
 
-_To join line 1 from the station "Lille Europe" by walking you must follow the signs "Gare Lille Flandres" and not the signs "Metro" as they lead you to a line 2 station. It is also possible to take line 2 for one station (in case of rain, for example)._
+_To join line 1 from the station "Lille Europe" by foot you must follow the signs "Gare Lille Flandres" and not the signs "Metro" which lead to the line 2 station. It is also possible to take line 2 for just one station (in case of rain, for example)._
 
 [![metro-gares]{:.gares title="Map metro – railway stations"}][metro-gares]
 
@@ -100,7 +101,7 @@ Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it'
 
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
 
-Walk along the metro (skytrain here) towards (south) to the next station ("4 Cantons") until you reach on your left the large cylindrical building under construction (the University Library). At this point you should see on your right the M1 building, recognizable by the large radio transmission antenna on its roof.
+Walk along the metro (skytrain here) towards (south) the next station ("4 Cantons") until the large cylindrical building under construction (the University Library) appears on your left. At this point you should see the M1 building on your right recognisable by the large radio transmission antenna on its roof.
 
 ## Paul Painlevé lab and the Math department
 {: #lille-l }
