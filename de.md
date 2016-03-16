@@ -7,7 +7,7 @@ edit: diese Seite bearbeiten
 modified:
   text: "Seite aktualisiert:"
   format: "%d.%m.%Y"
-  date: 2016-02-28
+  date: 2016-03-16
 ---
 
 # <i class="cityicon-bruxelles"></i>Brüssel
@@ -20,23 +20,23 @@ Nehmen Sie den Zug zum Bahnhof Brüssel Midi / Zuid (25 Min., ~9€).
 
 [Der Bahnhof][brussels airport train station] ist auf Ebene -1 des Flughafens. Der Zug » Brussels Airport Express « fährt mehrmals pro Stunde nach Brüssel Midi.
 
-_Es gibt auch Verbindungen nach Lille, die nicht über Brüssel Midi, sondern über Gent (Gand), Kortrijk (Courtrai) oder Tournai (Doornik) fahren._
+_Es gibt auch Verbindungen nach Lille, die nicht über Brüssel Midi, sondern über Gent (Gand), Kortrijk (Courtrai) oder Tournai (Doornik) gehen._
 
 ## Brüssel, <i class="icon-flight"></i> Flughafen Charleroi
 {: #bruxelles-ac data-next="lille-g" }
 
 Nehmen Sie den Shuttle-Bus vom Flughafen zu den Bahnhöfen von Lille (1 Std. 30 Min., 5€~35€).
 
-Am besten kaufen Sie eine Fahrkarte im Voraus auf [flibco.com]. Die Fahrkarte kostet dort zwischen 5€ und 17€, (doppelt weniger als direkt beim Busfahrer).
+Am besten kaufen Sie eine Fahrkarte im Voraus auf [flibco.com]. Die Fahrkarte kostet dort zwischen 5€ und 17€, (halb so viel wie direkt beim Busfahrer).
 
-_Es ist auch möglich, aber länger, den Bus [TEC] vom Flughafen zum Bahnhof Charleroi-Sud (20 Min., ~5€) und dann von dort aus einen Zug nach Lille über Tournai (1 Std. 40 Min., ~20€) zu nehmen. Manche Züge Tournai--Lille halten in Ascq. Es ist in diesem Fall möglich, durch das Dorf in 20-25 Min. den Campus zu Fuß zu erreichen._
+_Es ist auch möglich, aber länger, den Bus [TEC] vom Flughafen zum Bahnhof Charleroi-Sud (20 Min., ~5€) und dann von dort aus einen Zug nach Lille über Tournai (1 Std. 40 Min., ~20€) zu nehmen. Manche Züge Tournai--Lille halten in Ascq. Es ist in diesem Fall möglich, durch den Ort in 20-25 Min. den Campus zu Fuß zu erreichen._
 
 ## Brüssel, <i class="icon-train"></i> Bahnhof Midi / Zuid
 {: #bruxelles-g data-next="lille-g" }
 
-Nehmen Sie den TGV, die Thalys oder den [Eurostar] nach Bahnhof Lille Europe (35 Min., ~30€).
+Nehmen Sie den TGV, den Thalys oder den [Eurostar] zum Bahnhof Lille Europe (35 Min., ~30€).
 
-_Es ist auch möglich, aber länger, einen Zug nach Lille über Tournai (1 Std. 40 Min., ~23€) zu nehmen. Manche Züge Tournai-Lille halten in Ascq. Es ist in diesem Fall möglich, durch das Dorf in 20-25 Min. den Campus zu Fuß zu erreichen._
+_Es ist auch möglich, aber länger, einen Zug nach Lille über Tournai (1 Std. 40 Min., ~23€) zu nehmen. Manche Züge Tournai-Lille halten in Ascq. Es ist in diesem Fall möglich, durch den Ort in 20-25 Min. den Campus zu Fuß zu erreichen._
 
 # <i class="cityicon-london"></i>London
 {: #londres-g }
@@ -44,7 +44,7 @@ _Es ist auch möglich, aber länger, einen Zug nach Lille über Tournai (1 Std. 
 ## London, <i class="icon-train"></i> St Pancras Station
 {: #londres-g data-next="lille-g" }
 
-Nehmen Sie den [Eurostar] nach Bahnhof Lille Europe (1 Std. 30 Min., 80€~240€).
+Nehmen Sie den [Eurostar] zum Bahnhof Lille Europe (1 Std. 30 Min., 80€~240€).
 
 Es ist auf der Website von [Eurostar] empfohlen, 40 Min. vor der Abfahrt im Bahnhof zu sein.
 
@@ -63,14 +63,14 @@ _Es ist auch möglich, den [RER-B] bis zum Bahnhof Paris-Nord, und von dort aus 
 
 Nehmen Sie die U-Bahn [Orlyval] und steigen Sie in Antony aus. Nehmen Sie dann die U-Bahn [RER-B] bis zum Bahnhof Paris-Nord (1 Std., 12€).
 
-_Andere Möglichkeit: Nehmen Sie den Bus [Orlybus] nach Paris, steigen Sie an der Station » Denfert-Rochereau « aus und nehmen Sie dann die U-Bahn [RER-B] bis zum Bahnhof Paris-Nord._
+_Andere Möglichkeit: Nehmen Sie den Bus [Orlybus] nach Paris, steigen Sie an der Haltestelle » Denfert-Rochereau « aus und nehmen Sie dann die U-Bahn [RER-B] bis zum Bahnhof Paris-Nord._
 
 ## Paris, <i class="icon-train"></i> Bahnhof Nord
 {: #paris-g data-next="lille-g" }
 
 Nehmen Sie den TGV nach Lille (1 Std., 30€~70€).
 
-Es gibt im Durchschnitt einen TGV pro Stunde. Die meisten Züge kommen im Bahnhof Lille Flandres an, aber manche kommen im Bahnhof Lille Europe an.
+Es gibt in der Regel einen TGV pro Stunde. Die meisten Züge kommen im Bahnhof Lille Flandres an, aber manche kommen im Bahnhof Lille Europe an.
 
 # <i class="cityicon-lille"></i>Lille
 {: #lille }
@@ -80,27 +80,27 @@ Es gibt im Durchschnitt einen TGV pro Stunde. Die meisten Züge kommen im Bahnho
 
 Nehmen Sie [den Shuttle-Bus][lille airport shuttle], der direkt zu den Bahnhöfen von Lille fährt (20 Min., 8€).
 
-Die gleiche Fahrt mit dem Taxi kostet um die 28€ (23€ mit [VTC][ecota.co]) . Die Fahrt zum Gebäude M1 der Universität Lille 1 (15 min) kostet ca. 23€ (18€ mit [VTC][ecota.co]).
+Die gleiche Fahrt mit dem Taxi kostet um die 28€ (23€ mit [VTC][ecota.co]) . Die Fahrt zum Gebäude M1 der Universität Lille 1 (15 Min) kostet ca. 23€ (18€ mit [VTC][ecota.co]).
 
 ## Lille, <i class="icon-train"></i> Bahnhöfe Flandres und Europe
 {: #lille-g data-next="lille-u" }
 
 Gehen Sie zur U-Bahnstation » gare Lille Flandres « der Linie 1 (5 Min. zu Fuß).
 
-_Achtung! Ab Bahnhof "Lille Europe" gehen Sie Richtung "Lille Flandres" und nicht Richtung "Métro", denn es führt nach einer Metrostation der Linie 2._
+_Achtung! Ab Bahnhof » Lille Europe « gehen Sie Richtung » Lille Flandres « und nicht Richtung » Métro «, sonst kommen Sie zu einer Métro-haltestelle der Linie 2. Es ist dennoch möglich, die Linie 2 bis zur nächsten Haltestelle Richtung » Lomme Saint-Philibert « zu nehmen (z. B. bei Regen)._
 
 [![metro-gares]{:.gares title="U-Bahn – Bahnhöfe – Plan"}][metro-gares]
 
-Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60€ die Fahrt + 0,20€ die nachfüllbare Karte).
-Steigen Sie (nach 12 Min.) an der Station » Cité Scientifique Pr Gabillard « aus (es ist die vorletzte Station). Diese Station befindet sich mitten im Campus.
+Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60€ die Fahrt + 0,20€ die wiederaufladbare Karte).
+Steigen Sie (nach 12 Min.) an der Haltestelle » Cité Scientifique Pr Gabillard « aus (es ist die vorletzte Haltestelle). Diese Haltestelle befindet sich mitten im Campus.
 
-## Lille 1 Universität, <i class="icon-lille-metro"></i> Station » Cité Scientifique «
+## Lille 1 Universität, <i class="icon-lille-metro"></i> Haltestelle » Cité Scientifique «
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-m2]
 
 
-Gehen Sie an der U-Bahn (bzw. Hochbahn an dieser Stelle) entlang in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische zur Zeit umgebaute Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dessen Dach leicht erkennbar ist.
+Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische zur Zeit eingerüstete Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dem Dach leicht erkennbar ist.
 
 ## Paul Painlevé Labor und Mathe-Abteilung
 {: #lille-l }

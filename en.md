@@ -7,7 +7,7 @@ edit: edit this page
 modified:
   text: Last modified on
   format: "%B %d, %Y"
-  date: 2016-03-01
+  date: 2016-03-16
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussels
@@ -89,7 +89,7 @@ The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ 
 
 Walk (5 minutes) to the metro station "Gare Lille Flandres" on line 1.
 
-_To join line 1 from the station "Lille Europe" by foot you must follow the signs "Gare Lille Flandres" and not the signs "Metro" which lead to the line 2 station. It is also possible to take line 2 for just one station (in case of rain, for example)._
+_To join line 1 from the station "Lille Europe" by foot you must follow the signs "Gare Lille Flandres" and not the signs "Metro" which lead to the line 2 station. It is also possible to take line 2 towards "Lomme Saint-Philibert" for just one station (in case of rain, for example)._
 
 [![metro-gares]{:.gares title="Map metro – railway stations"}][metro-gares]
 

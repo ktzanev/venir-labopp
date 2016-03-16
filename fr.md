@@ -7,7 +7,7 @@ edit: éditer cette page
 modified:
   text: Page modifiée le
   format: "%d/%m/%Y"
-  date: 2016-02-28
+  date: 2016-03-16
 ---
 
 # <i class="cityicon-bruxelles"></i>Bruxelles
@@ -88,7 +88,7 @@ Le trajet jusqu'au bâtiment M1 de l'Université Lille 1 (15min) est de l'ordre 
 
 Marcher (5 minutes) jusqu'à la station de métro « Gare Lille Flandres » de la ligne 1.
 
-_Pour rejoindre à pied la ligne 1 à partir de la gare « Lille Europe » il faut suivre les panneaux « Gare Lille Flandres » et non les panneaux « Métro » car ils vous mènent vers une station de la ligne 2. Il est toutefois possible de prendre la ligne 2 pour une station (en cas de pluie, par exemple)._
+_Pour rejoindre à pied la ligne 1 à partir de la gare « Lille Europe » il faut suivre les panneaux « Gare Lille Flandres » et non les panneaux « Métro » car ils vous mènent vers une station de la ligne 2. Il est toutefois possible de prendre la ligne 2 en direction « Lomme Saint-Philibert » pour une station (en cas de pluie, par exemple)._
 
 [![metro-gares]{:.gares title="Plan métro – gares"}][metro-gares]
 
