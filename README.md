@@ -8,11 +8,11 @@ La page principale se trouve à l'adresse :
 
 * [ktzanev.github.io/venir-labopp](https://ktzanev.github.io/venir-labopp/)
 
-Mais vous pouvez aussi utiliser des liens directes comme par exemple :
+Mais vous pouvez aussi utiliser des liens directs comme par exemple :
 
 * [ktzanev.github.io/venir-labopp/fr/#lille-g](https://ktzanev.github.io/venir-labopp/fr/#lille-g)
 
-qui indique comment venir des gares de Lille (`#lille-g`) en français (`/fr/`).
+qui indique en français (`/fr/`) comment venir des gares de Lille (`#lille-g`).
 
 ### Liens courts
 
@@ -37,7 +37,7 @@ Puis il suffit de cliquer sur `modifier` du fichier que vous voulez modifier.
 GitHub créer une copie dans votre compte que vous pouvez modifier librement.
 Une fois votre travail terminé, vous pouvez faire un "Push request" pour que j'intègre vos modifications au projet.
 
-Vous pouvez également, au lieu de faire la correction directement, signaler le problème dans la séction [Issues](https://github.com/ktzanev/venir-labopp/issues).
+Vous pouvez également, au lieu de faire la correction directement, signaler le problème dans la section [Issues](https://github.com/ktzanev/venir-labopp/issues).
 
 Merci d'avance pour votre aide.
 
