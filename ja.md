@@ -2,12 +2,12 @@
 title: 各地からの来方
 description: Indique comment se rendre au laboratoire de mathématiques Paul Painlevé de Lille à partir de divers points de départ.
 layout: goto
-permalink: /ja/
+lang: ja
 edit: このページを編集します
 modified:
   text: 最終修正日：
   format: "%Y年%m月%d日"
-  date: 2016-03-16
+  date: 2016-09-21
 ---
 
 # <i class="cityicon-bruxelles"></i> ブリュッセル
