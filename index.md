@@ -8,6 +8,6 @@ layout: default
 - [![english]({{ 'assets/images/svgflags/en.svg' | prepend: site.baseurl }}) How&nbsp;to&nbsp;come?](en/)
 - [![nederlands]({{ 'assets/images/svgflags/nl.svg' | prepend: site.baseurl }}) Hoe&nbsp;kom&nbsp;ik&nbsp;er?](nl/)
 - [![deutsche]({{ 'assets/images/svgflags/de.svg' | prepend: site.baseurl }}) Wie&nbsp;komme&nbsp;ich?](de/)
-- [![德语]({{ 'assets/images/svgflags/cn.svg' | prepend: site.baseurl }}) 怎么来的？](cn/)
+- [![德语]({{ 'assets/images/svgflags/cn.svg' | prepend: site.baseurl }}) 怎么来的？](zh/)
 - [![日本の]({{ 'assets/images/svgflags/jp.svg' | prepend: site.baseurl }}) 来方は？](ja/)
 

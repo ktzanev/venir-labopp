@@ -2,12 +2,12 @@
 title: Wie komme ich von...
 description: Erklärt, wie man aus verschiedenen Ausgangspünkten zum Mathematiklabor Paul Painlevé an der Universität von Lille kommt.
 layout: goto
-permalink: /de/
+lang: de
 edit: diese Seite bearbeiten
 modified:
   text: "Seite aktualisiert:"
   format: "%d.%m.%Y"
-  date: 2016-03-16
+  date: 2016-09-21
 ---
 
 # <i class="cityicon-bruxelles"></i>Brüssel
@@ -100,7 +100,7 @@ Steigen Sie (nach 12 Min.) an der Haltestelle » Cité Scientifique Pr Gabilla
 [![metro-m2]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-m2]
 
 
-Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische zur Zeit eingerüstete Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dem Dach leicht erkennbar ist.
+Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dem Dach leicht erkennbar ist.
 
 ## Paul Painlevé Labor und Mathe-Abteilung
 {: #lille-l }

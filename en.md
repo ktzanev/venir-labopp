@@ -2,12 +2,12 @@
 title: How to come from ...
 description: Indicates how to get to the math lab "Paul Painlevé" of University of Lille from various starting points.
 layout: goto
-permalink: /en/
+lang: en
 edit: edit this page
 modified:
   text: Last modified on
   format: "%B %d, %Y"
-  date: 2016-03-16
+  date: 2016-09-21
 ---
 
 # <i class="cityicon-bruxelles"></i>Brussels
@@ -101,7 +101,7 @@ Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it'
 
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
 
-Walk along the metro (skytrain here) towards (south) the next station ("4 Cantons") until the large cylindrical building under construction (the University Library) appears on your left. At this point you should see the M1 building on your right recognisable by the large radio transmission antenna on its roof.
+Walk along the metro (skytrain here) towards (south) the next station ("4 Cantons") until the large cylindrical building (the University Library) appears on your left. At this point you should see the M1 building on your right recognisable by the large radio transmission antenna on its roof.
 
 ## Paul Painlevé lab and the Math department
 {: #lille-l }
