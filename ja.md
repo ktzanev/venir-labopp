@@ -119,7 +119,7 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’
 
 
 {::comment}
-====================== Le liens ==========================
+====================== リンク ==========================
 {:/comment}
 
 [brussels airport train station]:http://www.brusselsairport.be/en/passngr/to_from_brussels_airport/train/

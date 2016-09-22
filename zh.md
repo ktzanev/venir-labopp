@@ -113,7 +113,7 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 
 
 {::comment}
-====================== Le liens ==========================
+====================== 链接==========================
 {:/comment}
 
 [brussels airport train station]:http://www.brusselsairport.be/en/passngr/to_from_brussels_airport/train/

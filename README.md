@@ -26,7 +26,7 @@ Voici quelques liens courts générés par [Git.io](https://git.io) que vous pou
 ## la structure des fichiers
 
 - `index.md` est le fichier qui permet de choisir la langue;
-- `fr.md`, `en.md`, ... (format `<code pays>.md `) sont les fichiers qui contiennent les informations dans les différentes langues.
+- `fr.md`, `en.md`, ... (format `<code langue>.md `) sont les fichiers qui contiennent les informations dans les différentes langues.
 
 ## comment contribuer
 

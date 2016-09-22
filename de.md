@@ -116,7 +116,7 @@ Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden, M2 und M3, di
 
 
 {::comment}
-====================== Le liens ==========================
+====================== Links ==========================
 {:/comment}
 
 [brussels airport train station]:http://www.brusselsairport.be/en/passngr/to_from_brussels_airport/train/

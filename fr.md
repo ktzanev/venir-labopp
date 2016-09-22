@@ -116,7 +116,7 @@ Le laboratoire et l'UFR occupent deux bâtiments, M2 et M3, qui sont situés jus
 
 
 {::comment}
-====================== Le liens ==========================
+====================== Les liens ==========================
 {:/comment}
 
 [brussels airport train station]:http://www.brusselsairport.be/fr/passngr/to_from_brussels_airport/train/

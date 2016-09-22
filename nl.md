@@ -116,7 +116,7 @@ Het Laboratoire en de UFR bevinden zich in twee gebouwen (M2 en M3) die direct a
 - **salle des séminaires :** gebouw M3, derde verdieping
 
 {::comment}
-====================== Le liens ==========================
+====================== De links ==========================
 {:/comment}
 
 [brussels airport train station]:http://www.brusselsairport.be/nl/passngr/to_from_brussels_airport/train/
