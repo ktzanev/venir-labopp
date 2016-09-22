@@ -3,7 +3,7 @@ title: 各地からの来方
 description: 各地からリール第一大学ポール・パンルヴェ数学研究所への道程を表示する.
 layout: goto
 lang: ja
-edit: このページを編集します
+edit: このページを編集する
 modified:
   text: 最終修正日：
   format: "%Y年%m月%d日"
@@ -13,14 +13,14 @@ modified:
 # <i class="cityicon-bruxelles"></i> ブリュッセル
 {: #bruxelles }
 
-## ブリュッセル, <i class="icon-flight"></i> 空港
+## ブリュッセル, <i class="icon-flight"></i> ブリュッセル空港
 {: #bruxelles-ai data-next="bruxelles-g" }
 
-鉄道でブリュッセル南駅(la gare Bruxelles Midi/Zuid)まで行きます（25分, ~9ユーロ）.
+鉄道でブリュッセル南駅（Gare Bruxelles Midi/Zuid）まで行きます（25分, ~9ユーロ）.
 
-[鉄道駅][brussels airport train station]は空港の地下1階(level -1)です. ブリュッセル南駅へは毎時何本か運行される「ブリュッセル・エアポートエクスプレス(Brussels Airport Express)」で行くことができます.
+[鉄道駅][brussels airport train station]は空港の地下1階(level -1)です. ブリュッセル南駅へは毎時何本か運行される「ブリュッセル・エアポートエクスプレス（Brussels Airport Express）」で行くことができます.
 
-_リールへはブリュッセル南駅を経由する他に, ヘント (蘭: Gent, 仏: Gand, 英: Ghent), コルトレイク (蘭: Kortrijk, 仏: Courtrai), またはトゥルネー(Tournai, 蘭: Doonnik)経由の鉄道でも行けます._
+_リールへはブリュッセル南駅を経由する他に, ヘント（蘭: Gent, 仏: Gand, 英: Ghent), コルトレイク（蘭: Kortrijk, 仏: Courtrai), またはトゥルネー（Tournai, 蘭: Doonnik）経由の鉄道でも行けます._
 
 
 ## ブリュッセル, <i class="icon-flight"></i> サウスシャルルロワ空港
@@ -30,16 +30,16 @@ _リールへはブリュッセル南駅を経由する他に, ヘント (蘭: G
 
 事前に [flibco.com] で乗車券を買っておくとよいでしょう. そうすれば 5ユーロから17ユーロで乗車券を購入できます（バスの運転手から購入する場合の半額程度になります）.
 
-_空港からシャルルロワ鉄道駅までバス [TEC]で行き (20分, ~5ユーロ),
- そこからトゥルネー経由の鉄道でリールまで来ることもできますが（1時間40分, ~20ユーロ）,
- 幾分時間が長くかかります. トゥルネー・リール間の鉄道のいくつかはアスク(Ascq)止まりですが, リール第一大学キャンパスへはアスク市街を経由して徒歩20～25分で行くことができます._
+_幾分長い時間がかかりますが, 空港からシャルルロワ鉄道駅までバス [TEC]で行き (20分, ~5ユーロ),
+ そこからトゥルネー経由の鉄道でリールまで来ることもできます（1時間40分, ~20ユーロ）.
+ トゥルネー・リール間の鉄道のいくつかはアスク(Ascq)止まりですが, リール第一大学キャンパスへはアスク市街を経由して徒歩20～25分で行くことができます._
 
-## ブリュッセル, <i class="icon-train"></i> 南駅
+## ブリュッセル, <i class="icon-train"></i> ブリュッセル南駅
 {: #bruxelles-g data-next="lille-g" }
 
-リール・ヨーロッパ駅(Gare Lille Europe)まで, TGV, タリス, または[ユーロスター][Eurostar]に乗ってください (35分, ~30ユーロ)
+リール・ヨーロッパ駅(Gare Lille Europe)まで, TGV, タリス, または[ユーロスター][Eurostar]に乗ってください (35分, ~30ユーロ).
 
-_やや時間はかかりますが, リールへはトゥルネー経由の鉄道でも行けます(1時間40分, ~23ユーロ). トゥルネー・リール間の鉄道のいくつかはアスク(Ascq)止まりですが, リール第一大学キャンパスへはアスク市街を経由して徒歩20～25分で行けます._
+_やや時間はかかりますが, リールへはトゥルネー経由の鉄道でも行けます（1時間40分, ~23ユーロ). トゥルネー・リール間の鉄道のいくつかはアスク（Ascq）止まりですが, リール第一大学キャンパスへはアスク市街を経由して徒歩20～25分で行けます._
 
 # <i class="cityicon-london"></i> ロンドン
 {: #londres-g }
@@ -47,14 +47,14 @@ _やや時間はかかりますが, リールへはトゥルネー経由の鉄�
 ## ロンドン, <i class="icon-train"></i> セント・パンクラス駅
 {: #londres-g data-next="lille-g" }
 
-リール・ヨーロッパ駅(Gare Lille Europe)まで、[ユーロスター][Eurostar]に乗ってください（1時間30分, 80～240ユーロ）.
+リール・ヨーロッパ駅（Gare Lille Europe）まで、[ユーロスター][Eurostar]に乗ってください（1時間30分, 80～240ユーロ）.
 
 ユーロスターのウェブサイトで注意されている通り, 駅には出発の40分前迄に到着するようにすると良いでしょう.
 
 # <i class="cityicon-paris"></i> パリ
 {: #paris }
 
-## パリ, <i class="icon-flight"></i> シャルルドゴール空港
+## パリ, <i class="icon-flight"></i> シャルル・ド・ゴール空港
 {: #paris-ac data-next="paris-g" }
 
 リールまでTGVに乗って下さい（1時間, 50～70ユーロ）.
@@ -64,46 +64,46 @@ _パリ北駅までメトロ [RER-B] で行き, それからリールまでTGV�
 ## パリ, <i class="icon-flight"></i> オルリー空港
 {: #paris-ao data-next="paris-g" }
 
-メトロ [Orlyval] に乗り, アンソニー(Antony)駅で下車して下さい. その後, メトロ [RER-B] でパリ北駅へ向かって下さい（1時間, 12ユーロ）.
+メトロ [Orlyval] に乗り, アンソニー（Antony）駅で下車して下さい. その後, メトロ [RER-B] でパリ北駅へ向かって下さい（1時間, 12ユーロ）.
 
 _バス [Orlybus] でパリへ向かい, Denfert-Rochereau駅で下車. それからメトロ [RER-B] でパリ北駅へ行く事もできます._
 
-## パリ, <i class="icon-train"></i> 北駅
+## パリ, <i class="icon-train"></i> パリ北駅
 {: #paris-g data-next="lille-g" }
 
 リールまでTGVに乗って下さい（1時間, 30～70ユーロ）.
 
-リールへのTGVはほぼ毎時運行されています. 大部分はリール・フランドル駅(Gare Lille Flandres )着ですが, リール・ヨーロッパ駅(Gare Lille Europe)着のものもあります.
+リールへのTGVはほぼ毎時運行されています. 大部分はリール・フランドル駅（Gare Lille Flandres）着ですが, リール・ヨーロッパ駅（Gare Lille Europe）着のものもあります.
 
 # <i class="cityicon-lille"></i> リール
 {: #lille }
 
-## リール, <i class="icon-flight"></i> 空港（レスカン空港）
+## リール, <i class="icon-flight"></i> リール空港（レスカン空港）
 {: #lille-a data-next="lille-g" }
 
-鉄道駅まで直通の[シャトルバス][lille airport shuttle]に乗ります(20分, 8ユーロ)
+鉄道駅まで直通の[シャトルバス][lille airport shuttle]に乗ります（20分, 8ユーロ).
 
 タクシーで鉄道駅へ向かうと約28ユーロ([VTC][ecota.co]では23ユーロ)です.
 リール第一大学のM1棟へは約15分で, 約23ユーロ([VTC][ecota.co]では18ユーロ)です.
 
-## リール, <i class="icon-train"></i> フランドル駅, ヨーロッパ駅
+## リール, <i class="icon-train"></i> リール・フランドル駅, リール・ヨーロッパ駅
 {: #lille-g data-next="lille-u" }
 
 徒歩でメトロ1号線のリール・フランドル駅(Gare Lille Flandres )まで行きます (約5分).
 
-_リール・ヨーロッパ駅からメトロ1号線へ行くには, `Metro'の表示ではなく‘Gare Lille Flandres’ の表示に従って下さい. `Metro' の表示に従うと2号線へ行ってしまいます．雨天などの場合には, リール・ヨーロッパ駅からメトロ2号線のSaint-Philibert駅方面の電車に一駅乗れば1号線に乗り換えることができます._
+_リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’の表示ではなく‘Gare Lille Flandres’の表示に従って下さい.‘Metro’の表示に従うと2号線へ行ってしまいます．雨天などの場合には, リール・ヨーロッパ駅からメトロ2号線のSaint-Philibert駅方面の電車に一駅乗れば1号線に乗り換えることができます._
 
 [![metro-gares]{:.gares title="メトロ地図 - 駅名"}][metro-gares]
 
-そして, 1号線(黄色の線)の 4 Cantons Stade Pierre Mauroy  駅方面の電車に乗って下さい (片道1.60ユーロ + チャージ可能カード 0.20ユーロ).
-約12分で Cité Scientifique Pr Gabillard 駅(最後から2番目の駅)に着くので, そこで下車します. この駅はキャンパス内にあります.
+そして, 1号線（黄色の線）の 4 Cantons Stade Pierre Mauroy  駅方面の電車に乗って下さい (片道1.60ユーロ + チャージ可能電子カード代 0.20ユーロ).
+約12分で Cité Scientifique Pr Gabillard 駅（最後から2番目の駅）に着くので, そこで下車します. この駅は大学キャンパス内にあります.
 
 ## リール第一大学, <i class="icon-lille-metro"></i> メトロ駅 Cité Scientifique
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="メトロ駅からM2棟までの道程"}][metro-m2]
 
-大きな円筒形の建物が左手に見えるまでメトロ線沿いに次の駅(4 Cantons)の方向(南)に向かって歩いて下さい. ここまで来ると, 屋根に大きな無線アンテナのようなものがあるM1棟が前方右手に見えます.
+大きな円筒形の建物が左手に見えるまでメトロ線沿いに次の駅（4 Cantons）の方向（南）に向かって歩いて下さい. ここまで来ると, 屋根に大きな無線アンテナのようなものがあるM1棟が前方右手に見えます.
 
 ## ポール・パンルヴェ研究所, 数学科
 {: #lille-l }
