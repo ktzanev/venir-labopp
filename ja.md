@@ -1,13 +1,13 @@
 ---
 title: 各地からの来方
-description: Indique comment se rendre au laboratoire de mathématiques Paul Painlevé de Lille à partir de divers points de départ.
+description: 各地からリール第一大学ポール・パンルヴェ数学研究所への道程を表示する.
 layout: goto
 lang: ja
 edit: このページを編集します
 modified:
   text: 最終修正日：
   format: "%Y年%m月%d日"
-  date: 2016-09-21
+  date: 2016-09-22
 ---
 
 # <i class="cityicon-bruxelles"></i> ブリュッセル
@@ -93,7 +93,7 @@ _バス [Orlybus] でパリへ向かい, Denfert-Rochereau駅で下車. それ�
 
 _リール・ヨーロッパ駅からメトロ1号線へ行くには, `Metro'の表示ではなく‘Gare Lille Flandres’ の表示に従って下さい. `Metro' の表示に従うと2号線へ行ってしまいます．雨天などの場合には, リール・ヨーロッパ駅からメトロ2号線のSaint-Philibert駅方面の電車に一駅乗れば1号線に乗り換えることができます._
 
-[![metro-gares]{:.gares title="Plan métro – gares"}][metro-gares]
+[![metro-gares]{:.gares title="メトロ地図 - 駅名"}][metro-gares]
 
 そして, 1号線(黄色の線)の 4 Cantons Stade Pierre Mauroy  駅方面の電車に乗って下さい (片道1.60ユーロ + チャージ可能カード 0.20ユーロ).
 約12分で Cité Scientifique Pr Gabillard 駅(最後から2番目の駅)に着くので, そこで下車します. この駅はキャンパス内にあります.
@@ -101,7 +101,7 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには, `Metro'の
 ## リール第一大学, <i class="icon-lille-metro"></i> メトロ駅 Cité Scientifique
 {: #lille-u data-next="lille-l" }
 
-[![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
+[![metro-m2]{:.map title="メトロ駅からM2棟までの道程"}][metro-m2]
 
 大きな円筒形の建物が左手に見えるまでメトロ線沿いに次の駅(4 Cantons)の方向(南)に向かって歩いて下さい. ここまで来ると, 屋根に大きな無線アンテナのようなものがあるM1棟が前方右手に見えます.
 
