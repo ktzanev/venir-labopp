@@ -13,10 +13,7 @@ address: > #   L'adresse du laboratoire
 gps: ["50.609","3.138"]
 
 # libraries
-revealjsurl: "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/" # the path to RevealJS
 jqueryurl: "https://code.jquery.com/" # the path to jQuery
-bootstrapurl: "https://netdna.bootstrapcdn.com/bootstrap/3.1.1/" # the path to Bootstrap
-highlightjsurl: "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/" # the path to Bootstrap
 
 # Build settings
 permalink: pretty
@@ -26,9 +23,6 @@ kramdown:
   input: GFM
   hard_wrap: true
   auto_ids: false
-
-gems:
-  - jemoji
 
 exclude:
   - Work
