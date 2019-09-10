@@ -83,8 +83,8 @@ _バス [Orlybus] でパリへ向かい, Denfert-Rochereau駅で下車. それ�
 
 鉄道駅まで直通の[シャトルバス][lille airport shuttle]に乗ります（20分, 8ユーロ).
 
-タクシーで鉄道駅へ向かうと約28ユーロ([VTC][ecota.co]では23ユーロ)です.
-リール第一大学のM1棟へは約15分で, 約23ユーロ([VTC][ecota.co]では18ユーロ)です.
+タクシーで鉄道駅へ向かうと約28ユーロ(Uberでは20ユーロ)です.
+リール第一大学のM1棟へは約15分で, 約23ユーロ(Uberでは12ユーロ)です.
 
 ## リール, <i class="icon-train"></i> リール・フランドル駅, リール・ヨーロッパ駅
 {: #lille-g data-next="lille-u" }
@@ -134,7 +134,6 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’
 [Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
 [lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
-[ecota.co]:https://app.ecota.co/en/courses/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png

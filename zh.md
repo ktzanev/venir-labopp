@@ -128,7 +128,6 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 [Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
 [lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
-[ecota.co]:https://app.ecota.co/en/courses/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png

@@ -81,8 +81,8 @@ On an average a train leaves every hour. The majority of the trains arrive at th
 
 Take [the shuttle][lille airport shuttle] that arrives directly to the railway stations (20min, ~8€).
 
-The same trip by taxi costs about 28€ (23€ with [VTC][ecota.co]).
-The trip to the M1 building of Lille 1 University (15min) is about 23€ (18€ with [VTC][ecota.co]).
+The same trip by taxi costs about 28€ (20€ with Uber).
+The trip to the M1 building of Lille 1 University (15min) is about 23€ (12€ with Uber).
 
 ## Lille, <i class="icon-train"></i> Flandres and Europe railway stations
 {: #lille-g data-next="lille-u" }
@@ -132,7 +132,6 @@ Paul Painlevé lab and the Math department occupy two buildings, M2 and M3, whic
 [Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
 [lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
-[ecota.co]:https://app.ecota.co/en/courses/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
