@@ -80,7 +80,7 @@ Es gibt in der Regel einen TGV pro Stunde. Die meisten Züge kommen im Bahnhof L
 
 Nehmen Sie [den Shuttle-Bus][lille airport shuttle], der direkt zu den Bahnhöfen von Lille fährt (20 Min., 8€).
 
-Die gleiche Fahrt mit dem Taxi kostet um die 28€ (20€ mit Uber) . Die Fahrt zum Gebäude M1 der Universität Lille 1 (15 Min) kostet ca. 23€ (12€ mit Uber).
+Die gleiche Fahrt mit dem Taxi kostet um die 28€ (20€ mit Uber) . Die Fahrt zum Gebäude M1 der Universität Lille (15 Min) kostet ca. 23€ (12€ mit Uber).
 
 ## Lille, <i class="icon-train"></i> Bahnhöfe Flandres und Europe
 {: #lille-g data-next="lille-u" }
@@ -94,7 +94,7 @@ _Achtung! Ab Bahnhof » Lille Europe « gehen Sie Richtung » Lille Flandres « 
 Nehmen Sie dann die U-Bahn (gelbe) Linie 1 Richtung » 4 Cantons Stade Pierre Mauroy « (1,60€ die Fahrt + 0,20€ die wiederaufladbare Karte).
 Steigen Sie (nach 12 Min.) an der Haltestelle » Cité Scientifique Pr Gabillard « aus (es ist die vorletzte Haltestelle). Diese Haltestelle befindet sich mitten im Campus.
 
-## Lille 1 Universität, <i class="icon-lille-metro"></i> Haltestelle » Cité Scientifique «
+## Lille Universität, <i class="icon-lille-metro"></i> Haltestelle » Cité Scientifique «
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Plan von der U-Bahn bis zum Gebäude M2"}][metro-m2]

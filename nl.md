@@ -81,7 +81,7 @@ Gemiddeld is er een TGV ieder uur. De meeste TGV's gaan naar het station 'Lille 
 Neem [de shuttle][lille airport shuttle] die regelrecht naar de treinstations van Lille gaat (20min, 8€).
 
 Hetzelfde traject met een taxi kost ongeveer 28€ (20€ met een Uber).
-Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille 1 (15 min), dan kost dat ongeveer 23€ (12€ met een Uber).
+Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille (15 min), dan kost dat ongeveer 23€ (12€ met een Uber).
 
 ## Rijsel (Lille), <i class="icon-train"></i> treinstations 'Lille Flandres' en 'Lille Europe'
 {: #lille-g data-next="lille-u" }
@@ -96,7 +96,7 @@ _Opgepast, op het station 'Lille Europe' moet men de bordjes 'Gare Lille Flandre
 Aldaar metro lijn 1 (geel) nemen in de richting '4 Cantons Stade Pierre Mauroy' (1,60€/reis + 0,20€ herbruikbaar kaartje).
 Na zo'n 12 minuten uitstappen op het station 'Cité Scientifique Pr Gabillard' (het voorlaatste station). Dit station bevindt zich op de universitaire campus.
 
-## Universiteit van Lille 1, <i class="icon-lille-metro"></i> metrostation 'Cité Scientifique'
+## Universiteit van Lille, <i class="icon-lille-metro"></i> metrostation 'Cité Scientifique'
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]

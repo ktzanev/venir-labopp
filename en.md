@@ -82,7 +82,7 @@ On an average a train leaves every hour. The majority of the trains arrive at th
 Take [the shuttle][lille airport shuttle] that arrives directly to the railway stations (20min, ~8€).
 
 The same trip by taxi costs about 28€ (20€ with Uber).
-The trip to the M1 building of Lille 1 University (15min) is about 23€ (12€ with Uber).
+The trip to the M1 building of University of Lille (15min) is about 23€ (12€ with Uber).
 
 ## Lille, <i class="icon-train"></i> Flandres and Europe railway stations
 {: #lille-g data-next="lille-u" }
@@ -96,7 +96,7 @@ _To join line 1 from the station "Lille Europe" by foot you must follow the sign
 Then take Line 1 (yellow) towards "4 Cantons Stade Pierre Mauroy" (1,60€/ride + 0,20€ rechargeable card).
 Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it's the second to last station). This station is inside the campus.
 
-## Lille 1 University, <i class="icon-lille-metro"></i> « Cité Scientifique » metro station
+## University of Lille, <i class="icon-lille-metro"></i> « Cité Scientifique » metro station
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]

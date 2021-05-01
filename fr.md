@@ -81,7 +81,7 @@ Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la
 Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20min, 8€).
 
 Le même trajet en taxi coûte autour de 28€ (20€ avec Uber).
-Le trajet jusqu'au bâtiment M1 de l'Université Lille 1 (15min) est de l'ordre de 23€ (12€ avec Uber).
+Le trajet jusqu'au bâtiment M1 de l'Université de Lille (15min) est de l'ordre de 23€ (12€ avec Uber).
 
 ## Lille, <i class="icon-train"></i> gares Flandres et Europe
 {: #lille-g data-next="lille-u" }
@@ -95,7 +95,7 @@ _Pour rejoindre à pied la ligne 1 à partir de la gare « Lille Europe » i
 Puis, prendre la ligne 1 (jaune) direction « 4 Cantons Stade Pierre Mauroy » (1,60€/trajet + 0,20€ carte rechargeable).
 Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard » (c'est l'avant-dernier arrêt). Cette station se trouve au cœur du campus.
 
-## Université Lille 1, <i class="icon-lille-metro"></i> métro « Cité Scientifique »
+## Université de Lille, <i class="icon-lille-metro"></i> métro « Cité Scientifique »
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
