@@ -76,11 +76,13 @@ Es gibt in der Regel einen TGV pro Stunde. Die meisten Züge kommen im Bahnhof L
 {: #lille }
 
 ## Lille, <i class="icon-flight"></i> Flughafen Lesquin
-{: #lille-a data-next="lille-g" }
+{: #lille-a data-next="lille-4cantons" }
 
-Nehmen Sie [den Shuttle-Bus][lille airport shuttle], der direkt zu den Bahnhöfen von Lille fährt (20 Min., 8€).
+Nehmen Sie den [Bus 68][lille airport bus], der an der Metrostation "4 Cantons" auf dem Campus endet (15 min, 2 €).
 
-Die gleiche Fahrt mit dem Taxi kostet um die 28€ (20€ mit Uber) . Die Fahrt zum Gebäude M1 der Universität Lille (15 Min) kostet ca. 23€ (12€ mit Uber).
+Die gleiche Strecke bis zum Gebäude M1 der Universität Lille kostet mit dem Taxi etwa 25 € und mit Uber etwa 13 € (15 min).
+
+Sie können auch [den Shuttle][lille airport shuttle] nehmen, der direkt [an den Bahnhöfen](#lille-g) ankommt (20 min, 8 €).
 
 ## Lille, <i class="icon-train"></i> Bahnhöfe Flandres und Europe
 {: #lille-g data-next="lille-u" }
@@ -101,6 +103,13 @@ Steigen Sie (nach 12 Min.) an der Haltestelle » Cité Scientifique Pr Gabilla
 
 
 Gehen Sie an der U-Bahn entlang (die hier oberirdisch ist) in Richtung » 4 Cantons « (nach dem Süden) bis Sie links das große zylindrische Gebäude erreichen (die Universitätsbibliothek): Rechts können Sie das Gebäude M1 sehen, welches an der großen Radioantenne auf dem Dach leicht erkennbar ist.
+
+## Lille Universität, <i class="icon-lille-metro"></i> Haltestelle » 4 Cantons «
+{: #lille-4cantons data-next="lille-l" }
+
+[![4cantons-m2]{:.map title="Plan, um von der Station 4 Cantons zum M2-Gebäude zu gelangen"}][4cantons-m2]
+
+Gehen Sie entlang der U-Bahn (die an dieser Stelle oberirdisch verläuft) in Richtung Norden (zur Station "Cité Scientifique"), bis Sie links das Gebäude M1 sehen, das Sie an der großen Radioantenne auf seinem Dach erkennen können. Die Gebäude M2 und M3 befinden sich in Bezug auf die U-Bahn "hinter" dem Gebäude M1.
 
 ## Paul Painlevé Labor und Mathe-Abteilung
 {: #lille-l }
@@ -130,8 +139,10 @@ Das Labor und die Mathe-Abteilung befinden sich in zwei Gebäuden, M2 und M3, di
 [RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
 [Orlybus]:http://www.ratp.fr/de/ratp/r_61848/orlybus/
 
-[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
+[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
 

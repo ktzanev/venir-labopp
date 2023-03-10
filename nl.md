@@ -76,12 +76,13 @@ Gemiddeld is er een TGV ieder uur. De meeste TGV's gaan naar het station 'Lille 
 {: #lille }
 
 ## Rijsel (Lille), <i class="icon-flight"></i> luchthaven van Lesquin
-{: #lille-a data-next="lille-g" }
+{: #lille-a data-next="lille-4cantons" }
 
-Neem [de shuttle][lille airport shuttle] die regelrecht naar de treinstations van Lille gaat (20min, 8€).
+Neem de [bus 68][lille airport bus] die eindigt bij het metrostation "4 Cantons" op de campus (15 min, 2 €).
 
-Hetzelfde traject met een taxi kost ongeveer 28€ (20€ met een Uber).
-Gaat men direct met een taxi naar het gebouw M1 van de Universiteit van Lille (15 min), dan kost dat ongeveer 23€ (12€ met een Uber).
+Dezelfde rit per taxi, naar het M1-gebouw van de Universiteit van Lille, kost ongeveer 25 € en ongeveer 13 € met Uber (15 min).
+
+U kunt ook de [shuttle][lille airport shuttle] nemen die direct bij [de treinstations](#lille-g) aankomt (20 min, 8 €).
 
 ## Rijsel (Lille), <i class="icon-train"></i> treinstations 'Lille Flandres' en 'Lille Europe'
 {: #lille-g data-next="lille-u" }
@@ -102,6 +103,13 @@ Na zo'n 12 minuten uitstappen op het station 'Cité Scientifique Pr Gabillard' (
 [![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
 
 Volg de metrobuis (die hier op palen loopt) in zuidelijke richting naar het volgende (laatste) metrostation '4 Cantons'. U komt dan langs een groot rond gebouw (de Universitaire Bibliotheek, in renovatie) aan Uw linkerhand; een weinig verder bevindt zich aan Uw rechterhand het gebouw M1, herkenbaar aan de hoge radioantenne op het dak.
+
+## Universiteit van Lille, <i class="icon-lille-metro"></i> metrostation '4 Cantons'
+{: #lille-4cantons data-next="lille-l" }
+
+[![4cantons-m2]{:.map title="Kaart van station 4 Cantons naar gebouw M2"}][4cantons-m2]
+
+Volg de metro (die op dit punt boven het hoofd hangt) in noordelijke richting (naar het station "Cité Scientifique") tot u links het M1-gebouw ziet, herkenbaar aan de grote radio-antenne op het dak. De gebouwen M2 en M3 liggen "achter" het M1-gebouw, ten opzichte van de metro.
 
 ## Het 'Laboratoire Paul Painlevé' en de 'UFR de Mathématiques'
 {: #lille-l }
@@ -130,7 +138,9 @@ Het Laboratoire en de UFR bevinden zich in twee gebouwen (M2 en M3) die direct a
 [RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
 [Orlybus]:http://www.ratp.fr/nl/ratp/r_61848/orlybus/
 
-[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
+[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png

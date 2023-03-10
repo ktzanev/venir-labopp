@@ -77,12 +77,13 @@ On an average a train leaves every hour. The majority of the trains arrive at th
 {: #lille }
 
 ## Lille, <i class="icon-flight"></i> Lesquin airport
-{: #lille-a data-next="lille-g" }
+{: #lille-a data-next="lille-4cantons" }
 
-Take [the shuttle][lille airport shuttle] that arrives directly to the railway stations (20min, ~8€).
+Take the [bus 68][lille airport bus] which ends at the metro station "4 Cantons" located on campus (15 min, 2 €).
 
-The same trip by taxi costs about 28€ (20€ with Uber).
-The trip to the M1 building of University of Lille (15min) is about 23€ (12€ with Uber).
+The same trip by cab, to the M1 building of the University of Lille, costs around 25 € and around 13 € with Uber (15 min).
+
+You can also take [the shuttle][lille airport shuttle] which arrives directly [at the train stations](#lille-g) (20 min, 8 €).
 
 ## Lille, <i class="icon-train"></i> Flandres and Europe railway stations
 {: #lille-g data-next="lille-u" }
@@ -102,6 +103,13 @@ Get off (after 12 minutes) at the "Cité Scientifique Pr Gabillard" station (it'
 [![metro-m2]{:.map title="Map how to come from the metro to the M2 building"}][metro-m2]
 
 Walk along the metro (skytrain here) towards (south) the next station ("4 Cantons") until the large cylindrical building (the University Library) appears on your left. At this point you should see the M1 building on your right recognisable by the large radio transmission antenna on its roof.
+
+## Université de Lille, <i class="icon-lille-metro"></i>« 4 Cantons » metro terminal
+{: #lille-4cantons data-next="lille-l" }
+
+[![4cantons-m2]{:.map title="Map to get from 4 Cantons station to M2 building"}][4cantons-m2]
+
+Go along the metro (which is aerial at this place) in north direction (towards the "Cité Scientifique" station) until you see on your left the M1 building, recognizable by the big radio antenna on its roof. The M2 and M3 buildings are "behind" the M1 building, with respect to the metro.
 
 ## Paul Painlevé lab and the Math department
 {: #lille-l }
@@ -131,7 +139,9 @@ Paul Painlevé lab and the Math department occupy two buildings, M2 and M3, whic
 [RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
 [Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
-[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
+[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png

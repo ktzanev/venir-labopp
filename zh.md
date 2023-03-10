@@ -79,9 +79,13 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 {: #lille }
 
 ## 里尔, <i class="icon-flight"></i> Lesquin机场
-{: #lille-a data-next="lille-g" }
+{: #lille-a data-next="lille-4cantons" }
 
-可乘坐[班车][lille airport shuttle]直达里尔火车站（20分钟，8欧）。
+乘坐[68路][lille airport bus]，终点站是校园内的 "4 Cantons "地铁站（15分钟，2欧元）。
+
+同样的行程，乘坐出租车到里尔大学的M1大楼，费用约为25欧元，使用Uber约13欧元（15分钟）。
+
+你也可以乘坐[班车][lille airport shuttle]，直接到达[火车站](#lille-g)(20分钟，8欧元)。
 
 ## 里尔, <i class="icon-train"></i> Flandres和Europe火车站
 {: #lille-g data-next="lille-u" }
@@ -92,12 +96,19 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 
 然后乘坐1号线4 Cantons Stade Pierre Mauroy方向（1.6欧/次+0.2欧的充值卡）。（12分钟后）在Cité Scientifique Pr Gabillard站（倒数第二站）下车。这一站在校园中心。
 
-## 里尔一大
+## 里尔大学，<i class="icon-lille-metro"></i>地铁 "Cité Scientifique"
 {: #lille-u data-next="lille-l" }
 
 [![metro-m2]{:.map title="从地铁到M2楼的地图"}][metro-m2]
 
 朝南沿着地铁继续前进的方向走（地铁轨道是凌空的，可在轨道下面一直走），然后在左边能看到一个很大的圆柱形建筑，也就是学校的图书馆，然后就能看到右手边有一个建筑顶部有很高的天线，那就是M1楼。
+
+## 里尔大学，<i class="icon-lille-metro"></i>地铁 "4 Cantons"
+{: #lille-4cantons data-next="lille-l" }
+
+[![4cantons-m2]{:.map title="从4 Cantons站到M2大楼的地图"}][4cantons-m2]
+
+沿着地铁（此时在头顶上）向北走（往 "科学城 "站方向），直到你看到左边的M1大楼，可以通过其屋顶上的大型无线电天线识别。M2和M3大楼在M1大楼的 "后面"，与地铁的关系。
 
 ## Paul Painlevé 实验室和数学学院
 {: #lille-l }
@@ -127,7 +138,9 @@ _也可以坐[Orlybus]线巴士到巴黎，在Denfert-Rochereau站下，然后�
 [RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
 [Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
-[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
+[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png

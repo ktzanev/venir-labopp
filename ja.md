@@ -79,12 +79,13 @@ _バス [Orlybus] でパリへ向かい, Denfert-Rochereau駅で下車. それ�
 {: #lille }
 
 ## リール, <i class="icon-flight"></i> リール空港（レスカン空港）
-{: #lille-a data-next="lille-g" }
+{: #lille-a data-next="lille-4cantons" }
 
-鉄道駅まで直通の[シャトルバス][lille airport shuttle]に乗ります（20分, 8ユーロ).
+[68番のバスに乗][lille airport bus]り、キャンパス内の地下鉄「4 Cantons」駅が終点です（15分、2ユーロ）。
 
-タクシーで鉄道駅へ向かうと約28ユーロ(Uberでは20ユーロ)です.
-リール大学のM1棟へは約15分で, 約23ユーロ(Uberでは12ユーロ)です.
+タクシーでリール大学M1校舎まで行く場合、約25ユーロ、Uberで約13ユーロです（所要時間15分）。
+
+また、[鉄道駅](#lille-g)に直接到着する[シャトルバス][lille airport shuttle]を利用することもできます（所要時間20分、8ユーロ）。
 
 ## リール, <i class="icon-train"></i> リール・フランドル駅, リール・ヨーロッパ駅
 {: #lille-g data-next="lille-u" }
@@ -104,6 +105,13 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’
 [![metro-m2]{:.map title="メトロ駅からM2棟までの道程"}][metro-m2]
 
 大きな円筒形の建物が左手に見えるまでメトロ線沿いに次の駅（4 Cantons）の方向（南）に向かって歩いて下さい. ここまで来ると, 屋根に大きな無線アンテナのようなものがあるM1棟が前方右手に見えます.
+
+## リール大学, <i class="icon-lille-metro"></i> メトロ駅 Cité Scientifique
+{: #lille-4cantons data-next="lille-l" }
+
+[![4cantons-m2]{:.map title="4カントンの駅からM2ビルまでの地図"}][4cantons-m2]
+
+地下鉄（この時点では高架線）を北上し、「Cité Scientifique」駅方面に進むと、左手にM1ビルが見えてきます（屋根に大きな無線アンテナがあるのが目印です）。M2ビルとM3ビルは、地下鉄から見てM1ビルの「後ろ」にあります。
 
 ## ポール・パンルヴェ研究所, 数学科
 {: #lille-l }
@@ -133,7 +141,9 @@ _リール・ヨーロッパ駅からメトロ1号線へ行くには,‘Metro’
 [RER-B]:https://www.transilien.com/lignes/rer-trains/rer-B
 [Orlybus]:http://www.ratp.fr/en/ratp/r_61848/orlybus/
 
-[lille airport shuttle]:http://www.lille.aeroport.fr/getting-to-the-airport/shuttle/
+[lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
