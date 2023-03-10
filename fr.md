@@ -76,12 +76,13 @@ Un TGV part toutes les heures en moyenne. La majorité des trains arrivent à la
 {: #lille }
 
 ## Lille, <i class="icon-flight"></i> aéroport Lesquin
-{: #lille-a data-next="lille-g" }
+{: #lille-a data-next="lille-4cantons" }
 
-Prendre [la navette][lille airport shuttle] qui arrive directement aux gares (20min, 8€).
+Prendre le [bus 68][lille airport bus] qui a pour terminus la station du métro « 4 Cantons » située sur le campus (15 min, 2 €).
 
-Le même trajet en taxi coûte autour de 28€ (20€ avec Uber).
-Le trajet jusqu'au bâtiment M1 de l'Université de Lille (15min) est de l'ordre de 23€ (12€ avec Uber).
+Le même trajet en taxi, jusqu'au bâtiment M1 de l'Université de Lille, coûte autour de 25 € et de l'ordre de 13 € avec Uber (15 min).
+
+Vous pouvez prendre aussi [la navette][lille airport shuttle] qui arrive directement [aux gares](#lille-g) (20 min, 8 €).
 
 ## Lille, <i class="icon-train"></i> gares Flandres et Europe
 {: #lille-g data-next="lille-u" }
@@ -101,6 +102,13 @@ Descendre (après 12 minutes) à la station « Cité Scientifique Pr Gabillard
 [![metro-m2]{:.map title="Plan pour venir du métro au bâtiment M2"}][metro-m2]
 
 Longer le métro (qui est aérien à cet endroit) en direction (sud) de la station suivante (« 4 Cantons ») jusqu'à atteindre sur votre gauche le grand bâtiment cylindrique (la bibliothèque universitaire) : vous devez apercevoir sur votre droite le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit.
+
+## Université de Lille, <i class="icon-lille-metro"></i> métro « 4 Cantons (terminus) »
+{: #lille-4cantons data-next="lille-l" }
+
+[![4cantons-m2]{:.map title="Plan pour venir de la station 4 Cantons au bâtiment M2"}][4cantons-m2]
+
+Longer le métro (qui est aérien à cet endroit) en direction nord (vers la station « Cité Scientifique ») jusqu'à apercevoir sur votre gauche le bâtiment M1, reconnaissable à la grande antenne radio qui est sur son toit. Les bâtiments M2 et M3 sont « derrière » le bâtiment M1, par rapport au métro.
 
 ## Laboratoire Paul Painlevé et UFR de Mathématiques
 {: #lille-l }
@@ -131,6 +139,8 @@ Le laboratoire et l'UFR occupent deux bâtiments, M2 et M3, qui sont situés jus
 [Orlybus]:http://www.ratp.fr/fr/ratp/r_61848/orlybus/
 
 [lille airport shuttle]:http://www.lille.aeroport.fr/acceder-a-l-aeroport/navette/
+[lille airport bus]:https://www.ilevia.fr/cms/institutionnel/se-deplacer/vers-laeroport/
 
 [metro-m2]:{{ site.baseurl }}assets/images/maps/metro-m2.png
+[4cantons-m2]:{{ site.baseurl }}assets/images/maps/4cantons-m2.png
 [metro-gares]:{{ site.baseurl }}assets/images/maps/metro-gares.png
